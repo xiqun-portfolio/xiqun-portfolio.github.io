@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="7804px" viewBox="0 0 1440 7804" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>flyg-desk-base</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="1.63640203%" x2="50%" y2="99.6300044%" id="linearGradient-1">
+            <stop stop-color="#F0F8FC" stop-opacity="0.879097465" offset="0%"></stop>
+            <stop stop-color="#F0F8FC" offset="49.0234375%"></stop>
+            <stop stop-color="#F6FBFD" stop-opacity="0.88" offset="99.9815245%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="1.63640203%" x2="50%" y2="99.6300044%" id="linearGradient-2">
+            <stop stop-color="#F0F8FC" stop-opacity="0.879097465" offset="0%"></stop>
+            <stop stop-color="#F0F8FC" offset="49.0234375%"></stop>
+            <stop stop-color="#F6FBFD" stop-opacity="0.88" offset="99.9815245%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="1.63640203%" x2="50%" y2="99.6300044%" id="linearGradient-3">
+            <stop stop-color="#F0F8FC" stop-opacity="0.879097465" offset="0%"></stop>
+            <stop stop-color="#F0F8FC" offset="49.0234375%"></stop>
+            <stop stop-color="#F6FBFD" stop-opacity="0.88" offset="99.9815245%"></stop>
+        </linearGradient>
+        <filter x="-5.7%" y="-19.5%" width="111.3%" height="139.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="13" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.22 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#EEEEEE" offset="0%"></stop>
+            <stop stop-color="#D8D8D8" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-6">
+            <stop stop-color="#FABB92" offset="0%"></stop>
+            <stop stop-color="#F38559" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="flyg-desk-base" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="1440" height="7804"></rect>
+        <g id="Group-11" transform="translate(180.000000, 2062.000000)">
+            <path d="M100,0 L1080,0 L1080,570 C1080,625.228475 1035.22847,670 980,670 L0,670 L0,100 C-6.76353751e-15,44.771525 44.771525,1.01453063e-14 100,0 Z" id="Rectangle" fill="url(#linearGradient-1)"></path>
+            <text id="1---Search-page-goal" font-family="OpenSans-Semibold, Open Sans" font-size="32" font-weight="500" fill="#F06630">
+                <tspan x="36" y="86">1 - Search page goal - </tspan>
+            </text>
+            <text id="Main-updates:-1.-The" font-family="OpenSans-Bold, Open Sans" font-size="18" font-weight="bold" line-spacing="38">
+                <tspan x="40" y="176" fill="#2E5B8B">Main updates:  </tspan>
+                <tspan x="177.206055" y="176" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.87"></tspan>
+                <tspan x="40" y="210" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.87">1. The structure is similiar  but more clear &amp; simple.</tspan>
+                <tspan x="40" y="232" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.87">2. Keep horizontal eye streamline in the searchBox.</tspan>
+                <tspan x="40" y="254" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.87">3. Only the search button is outstanding with yellow.</tspan>
+                <tspan x="40" y="276" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.87">4. The background image brings trusty and </tspan>
+                <tspan x="40" y="298" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.87">modernization</tspan>
+            </text>
+            <text id="maintain-user-viscos" font-family="OpenSans-Bold, Open Sans" font-size="22" font-weight="bold" line-spacing="38" fill="#2E5B8B">
+                <tspan x="365" y="82"> maintain user viscosity &amp; increase search click rates.</tspan>
+            </text>
+        </g>
+        <g id="personna" transform="translate(183.000000, 1576.000000)" font-family="OpenSans, Open Sans" font-weight="normal">
+            <g id="Group-54" transform="translate(871.000000, 0.000000)" fill="#FDE9E2" font-size="320" letter-spacing="121.25">
+                <text id="E">
+                    <tspan x="0" y="342">E</tspan>
+                </text>
+            </g>
+            <text id="We-spent-about-one-m" font-size="16">
+                <tspan x="0" y="166" fill="#000000" fill-opacity="0.87">We spent about one month at the end. Mainly based on the user needs and user habits to </tspan>
+                <tspan x="0" y="188" fill="#000000" fill-opacity="0.87">define the entire flight search process. First, the functionality is crutial. It considers a very </tspan>
+                <tspan x="0" y="210" fill="#000000" fill-opacity="0.87">general Swedish user group - from the age span, educational level, accessibility, and also </tspan>
+                <tspan x="0" y="232" fill="#000000" fill-opacity="0.87">multicultural background. The design has been affirmed by everyone in the company.</tspan>
+                <tspan x="0" y="254" fill="#000000" fill-opacity="0.87"></tspan>
+                <tspan x="0" y="276" fill="#000000" fill-opacity="0.87">Here only main pages and functions displayed, we totally designed about 120 user interfaces </tspan>
+                <tspan x="0" y="298" fill="#000000" fill-opacity="0.87">on desktop and tablet to display different function pieces. You are welcomed to visit the live </tspan>
+                <tspan x="0" y="320" fill="#000000" fill-opacity="0.87">website here: </tspan>
+                <tspan x="104.40625" y="320" font-family="OpenSans-Semibold, Open Sans" font-weight="500" fill="#007AFF">https://www.flygresor.se/</tspan>
+            </text>
+        </g>
+        <g id="Group-10" transform="translate(180.000000, 2902.000000)">
+            <path d="M100,0 L1080,0 L1080,570 C1080,625.228475 1035.22847,670 980,670 L0,670 L0,100 C-6.76353751e-15,44.771525 44.771525,1.01453063e-14 100,0 Z" id="Rectangle" fill="url(#linearGradient-1)" transform="translate(540.000000, 335.000000) scale(1, -1) translate(-540.000000, -335.000000) "></path>
+            <text id="2---ResultPage-goal" font-family="OpenSans-Semibold, Open Sans" font-size="32" font-weight="500" fill="#F06630">
+                <tspan x="34" y="90">2 - ResultPage goal - </tspan>
+            </text>
+            <text id="Main-updates:-1.-Cla" font-family="OpenSans-Bold, Open Sans" font-size="18" font-weight="bold" line-spacing="38">
+                <tspan x="35" y="186" fill="#2E5B8B">Main updates:  </tspan>
+                <tspan x="172.206055" y="186" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.87"></tspan>
+                <tspan x="35" y="220" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.87">1. Classify similiar features in one block.</tspan>
+                <tspan x="35" y="242" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.87">2. Put </tspan>
+                <tspan x="81.8203125" y="242" font-family="PingFangSC-Regular, PingFang SC" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.87">results list at the outstanding position.</tspan>
+                <tspan x="35" y="264" font-family="PingFangSC-Regular, PingFang SC" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.87">3. Make the filter visually to understand and use.</tspan>
+                <tspan x="35" y="286" font-family="PingFangSC-Regular, PingFang SC" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.87">4. Get flight details and travel agencies easily.</tspan>
+            </text>
+            <text id="Good-features-to-ass" font-family="OpenSans-Bold, Open Sans" font-size="22" font-weight="bold" line-spacing="38" fill="#2E5B8B">
+                <tspan x="348" y="87"> Good features to assist the search &amp; increase clickouts.</tspan>
+            </text>
+        </g>
+        <path d="M278,3742 L1258,3742 L1258,4312 C1258,4367.22847 1213.22847,4412 1158,4412 L178,4412 L178,3842 C178,3786.77153 222.771525,3742 278,3742 Z" id="Rectangle" fill="url(#linearGradient-1)"></path>
+        <path d="M278,4582 L1258,4582 L1258,5152 C1258,5207.22847 1213.22847,5252 1158,5252 L178,5252 L178,4682 C178,4626.77153 222.771525,4582 278,4582 Z" id="Rectangle" fill="url(#linearGradient-1)" transform="translate(718.000000, 4917.000000) scale(1, -1) translate(-718.000000, -4917.000000) "></path>
+        <path d="M279,6351 L1259,6351 L1259,6941 C1259,6996.22847 1214.22847,7041 1159,7041 L179,7041 L179,6451 C179,6395.77153 223.771525,6351 279,6351 Z" id="Rectangle" fill="url(#linearGradient-2)" transform="translate(719.000000, 6696.000000) scale(1, -1) translate(-719.000000, -6696.000000) "></path>
+        <path d="M275,5552 L1255,5552 L1255,6081 C1255,6136.22847 1210.22847,6181 1155,6181 L175,6181 L175,5652 C175,5596.77153 219.771525,5552 275,5552 Z" id="Rectangle" fill="url(#linearGradient-3)"></path>
+        <rect id="Rectangle-2" stroke="#E6E8ED" fill-rule="nonzero" x="180.5" y="85.5" width="1079" height="231" rx="4"></rect>
+        <g id="Group-5" transform="translate(216.000000, 4644.000000)">
+            <text id="2.2---Price-cutter-f" font-family="OpenSans-Semibold, Open Sans" font-size="32" font-weight="500" fill="#F06630">
+                <tspan x="0" y="34">2</tspan>
+                <tspan x="18.265625" y="34" font-family="PingFangSC-Semibold, PingFang SC">.2</tspan>
+                <tspan x="46.265625" y="34"> - Price cutter feature goal - </tspan>
+            </text>
+            <text id="Main-updates:-1.-Mak" font-family="OpenSans-Bold, Open Sans" font-size="18" font-weight="bold" line-spacing="38">
+                <tspan x="0" y="137" fill="#2E5B8B">Main updates:  </tspan>
+                <tspan x="137.206055" y="137" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.87"></tspan>
+                <tspan x="0" y="171" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.87">1. Make search button easier to find .</tspan>
+                <tspan x="0" y="193" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.87">2. Make the chart more understandable.</tspan>
+                <tspan x="0" y="215" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.87">3. Easier to find and close the feature .</tspan>
+                <tspan x="0" y="237" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.87">4. The total price with different passenger numbers </tspan>
+                <tspan x="0" y="259" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.87">designed more clear.</tspan>
+            </text>
+            <text id="Make-it-usable-&amp;-eff" font-family="OpenSans-Bold, Open Sans" font-size="22" font-weight="bold" line-spacing="38" fill="#2E5B8B">
+                <tspan x="471" y="32"> Make it usable &amp; efficiency</tspan>
+            </text>
+        </g>
+        <g id="Group-6" transform="translate(217.000000, 5436.000000)">
+            <text id="2.3---Filter-goal--" font-family="OpenSans-Semibold, Open Sans" font-size="32" font-weight="500" fill="#F06630">
+                <tspan x="0" y="34">2</tspan>
+                <tspan x="18.265625" y="34" font-family="PingFangSC-Semibold, PingFang SC">.3</tspan>
+                <tspan x="46.265625" y="34"> - Filter goal -</tspan>
+            </text>
+            <text id="Main-updates:-1.-Div" font-family="OpenSans-Bold, Open Sans" font-size="18" font-weight="bold" line-spacing="38">
+                <tspan x="34" y="612" fill="#2E5B8B">Main updates:  </tspan>
+                <tspan x="171.206055" y="612" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.87"></tspan>
+                <tspan x="34" y="646" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.87">1. Divide different parts of function clearly.         </tspan>
+                <tspan x="34" y="668" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.87">2. Users can collapse different parts of function customly. </tspan>
+                <tspan x="34" y="690" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.87">3. The selected points display in short even it collapsed.</tspan>
+            </text>
+            <text id="Increase-the-usage-r" font-family="OpenSans-Bold, Open Sans" font-size="22" font-weight="bold" line-spacing="38" fill="#2E5B8B">
+                <tspan x="253" y="33">Increase the usage rate &amp; clickouts</tspan>
+            </text>
+        </g>
+        <g id="Group-8" transform="translate(213.000000, 6403.000000)">
+            <text id="3---Flight-details-f" font-family="PingFangSC-Semibold, PingFang SC" font-size="32" font-weight="500" fill="#F06630">
+                <tspan x="0" y="34">3</tspan>
+                <tspan x="19.2" y="34" font-family="OpenSans-Semibold, Open Sans"> - Flight details feature goal - </tspan>
+            </text>
+            <g id="Group" filter="url(#filter-4)" transform="translate(2.000000, 8.000000)" font-family="OpenSans-Bold, Open Sans" font-weight="bold" line-spacing="38">
+                <text id="Main-updates:-1.-Det" font-size="18">
+                    <tspan x="0" y="126" fill="#2E5B8B">Main updates:  </tspan>
+                    <tspan x="137.206055" y="126" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.87"></tspan>
+                    <tspan x="0" y="160" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.87">1. Details left aligned replaces middle aligned </tspan>
+                    <tspan x="0" y="182" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.87">format. 2. Highlight the title and crucial information.</tspan>
+                    <tspan x="0" y="204" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.87">3. City, time, and airport name is clearly readable.</tspan>
+                    <tspan x="0" y="226" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.87">4. Flight details and travel agencies entrances are </tspan>
+                    <tspan x="0" y="248" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.87">clear.</tspan>
+                </text>
+                <text id="Make-it-understandab" font-size="22" fill="#2E5B8B">
+                    <tspan x="456" y="24"> Make it understandable &amp; increase clickouts </tspan>
+                </text>
+            </g>
+        </g>
+        <text id="2.1---Price-calendar" font-family="OpenSans-Semibold, Open Sans" font-size="32" font-weight="500" fill="#F06630">
+            <tspan x="215" y="3825">2</tspan>
+            <tspan x="233.265625" y="3825" font-family="PingFangSC-Semibold, PingFang SC">.1</tspan>
+            <tspan x="255.185625" y="3825"> - Price calendar feature goal - </tspan>
+        </text>
+        <text id="Main-updates:-1.-Aut" font-family="OpenSans-Bold, Open Sans" font-size="18" font-weight="bold" line-spacing="38">
+            <tspan x="215" y="3917" fill="#2E5B8B">Main updates:  </tspan>
+            <tspan x="352.206055" y="3917" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.87"></tspan>
+            <tspan x="215" y="3951" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.87">1. Automatically refresh recent fexible dates &amp; prices.</tspan>
+            <tspan x="215" y="3973" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.87">2. Use red color to indicate holidays.</tspan>
+            <tspan x="215" y="3995" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.87">3. The design style is bigger to increase the </tspan>
+            <tspan x="215" y="4017" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.87">readability.</tspan>
+            <tspan x="215" y="4039" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.87">4. Make info priorities meets the user habits.</tspan>
+        </text>
+        <text id="Make-it-usable-&amp;-eff" font-family="OpenSans-Bold, Open Sans" font-size="22" font-weight="bold" line-spacing="38" fill="#2E5B8B">
+            <tspan x="719" y="3823"> Make it usable &amp; efficiency</tspan>
+        </text>
+        <g id="Group-12" transform="translate(381.000000, 119.000000)" font-family="OpenSans, Open Sans" font-weight="normal">
+            <text id="Team" font-size="20" line-spacing="28" fill="#375989">
+                <tspan x="1" y="21">Team</tspan>
+            </text>
+            <text id="Xiqun-Li" font-size="14" line-spacing="24" fill="#000000" fill-opacity="0.87">
+                <tspan x="0" y="61">Xiqun Li </tspan>
+            </text>
+            <text id="Laura" font-size="14" line-spacing="24" fill="#000000" fill-opacity="0.87">
+                <tspan x="7" y="92">Laura </tspan>
+            </text>
+        </g>
+        <g id="Col-3" transform="translate(1140.000000, 119.000000)" font-family="OpenSans, Open Sans" font-weight="normal">
+            <text id="Tools" font-size="20" line-spacing="28" fill="#2E5B8B">
+                <tspan x="0" y="21">Tools</tspan>
+            </text>
+            <text id="Sketch" font-size="14" line-spacing="24" fill="#000000" fill-opacity="0.87">
+                <tspan x="3" y="61">Sketch</tspan>
+            </text>
+            <text id="Marvel" font-size="14" line-spacing="24" fill="#000000" fill-opacity="0.87">
+                <tspan x="2.72509766" y="93">Marvel</tspan>
+            </text>
+        </g>
+        <g id="Col-3" transform="translate(987.000000, 119.000000)" font-family="OpenSans, Open Sans" font-weight="normal">
+            <g id="Group-14">
+                <text id="Platform" font-size="20" line-spacing="28" fill="#2E5B8B">
+                    <tspan x="0" y="21">Platform</tspan>
+                </text>
+                <text id="Desktop" font-size="14" line-spacing="24" fill="#000000" fill-opacity="0.87">
+                    <tspan x="13" y="61">Desktop</tspan>
+                </text>
+                <text id="Tablet" font-size="14" line-spacing="24" fill="#000000" fill-opacity="0.87">
+                    <tspan x="20.2758789" y="93">Tablet</tspan>
+                </text>
+                <text id="Mobile" font-size="14" line-spacing="24" fill="#000000" fill-opacity="0.87">
+                    <tspan x="18.1943359" y="125">Mobile</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="Col-2" transform="translate(763.000000, 119.000000)" font-family="OpenSans, Open Sans" font-weight="normal">
+            <text id="Methods" font-size="20" line-spacing="28" fill="#2E5B8B">
+                <tspan x="32" y="21">Methods</tspan>
+            </text>
+            <text id="Competitor-Analysis" font-size="14" line-spacing="24" fill="#000000" fill-opacity="0.87">
+                <tspan x="8" y="61">Competitor Analysis</tspan>
+            </text>
+            <text id="Brainstorming" font-size="14" line-spacing="24" fill="#000000" fill-opacity="0.87">
+                <tspan x="30" y="93">Brainstorming</tspan>
+            </text>
+            <text id="Card-Sorting" font-size="14" line-spacing="24" fill="#000000" fill-opacity="0.87">
+                <tspan x="32.925293" y="125">Card Sorting</tspan>
+            </text>
+            <text id="Customer-Journey-Map" font-size="14" line-spacing="24" fill="#000000" fill-opacity="0.87">
+                <tspan x="0" y="157">Customer Journey Map</tspan>
+            </text>
+        </g>
+        <g id="Col-1" transform="translate(510.000000, 119.000000)" font-family="OpenSans, Open Sans" font-weight="normal">
+            <text id="My-roles" font-size="20" line-spacing="28" fill="#2E5B8B">
+                <tspan x="50" y="21">My roles</tspan>
+            </text>
+            <text id="UX-Designer" font-size="14" line-spacing="24" fill="#000000" fill-opacity="0.87">
+                <tspan x="50" y="95">UX Designer</tspan>
+            </text>
+            <text id="Needs-Proposer" font-size="14" line-spacing="24" fill="#000000" fill-opacity="0.87">
+                <tspan x="36.4794922" y="62">Needs Proposer</tspan>
+            </text>
+            <text id="UI-Designer" font-size="14" line-spacing="24" fill="#000000" fill-opacity="0.87">
+                <tspan x="52" y="127">UI Designer</tspan>
+            </text>
+            <text id="Test-Development-Eng" font-size="14" line-spacing="24" fill="#000000" fill-opacity="0.87">
+                <tspan x="0" y="159">Test Development Engineer</tspan>
+            </text>
+        </g>
+        <g id="Col-1" transform="translate(250.000000, 119.000000)" font-family="OpenSans, Open Sans" font-weight="normal">
+            <text id="Date" font-size="20" line-spacing="28" fill="#2E5B8B">
+                <tspan x="8" y="21">Date</tspan>
+            </text>
+            <text id="Mar-2019---Present" font-size="14" line-spacing="24" fill="#000000" fill-opacity="0.87">
+                <tspan x="0" y="61">Mar</tspan>
+                <tspan x="26.140625" y="61" font-family="PingFangSC-Regular, PingFang SC"> </tspan>
+                <tspan x="30.802625" y="61">2019</tspan>
+                <tspan x="0" y="85">- Present</tspan>
+            </text>
+        </g>
+        <g id="Group-90" transform="translate(156.000000, 7106.000000)" font-family="OpenSans, Open Sans" font-weight="normal">
+            <text id="Launched-Result" font-size="48" fill="#2E5B8B">
+                <tspan x="100.148438" y="218">Launched Result</tspan>
+            </text>
+            <text id="On-the-day-of-Jun-30" font-size="18" fill="#000000" fill-opacity="0.87">
+                <tspan x="267" y="298">On the day of Jun 30th 2019, the new desktop and tablet design has been 100% lunched. After one </tspan>
+                <tspan x="267" y="322">month, </tspan>
+                <tspan x="332.15332" y="322" font-family="OpenSans-Bold, Open Sans" font-weight="bold">the clickouts has been relatively lowered while the profit suprisingly increased. </tspan>
+                <tspan x="1048.84863" y="322">This </tspan>
+                <tspan x="267" y="346">proves the new design did improve the user experience wheich makes it is easier to be used and </tspan>
+                <tspan x="267" y="370">undertood. Also there are some feedback from the users said that the design brings them morden, </tspan>
+                <tspan x="267" y="394">fresh, and trusty experience. They really like it! </tspan>
+                <tspan x="267" y="418"></tspan>
+                <tspan x="267" y="442">However, the design will still necessarily need to be evaluated and enhanced day by day. </tspan>
+            </text>
+            <text id="R" font-size="320" letter-spacing="121.25" fill="#F06630" fill-opacity="0.14">
+                <tspan x="0" y="342">R</tspan>
+            </text>
+        </g>
+        <g id="second" transform="translate(621.000000, 299.000000)" font-family="OpenSans, Open Sans" font-weight="normal">
+            <text id="D" font-size="320" letter-spacing="121.25" fill="#FDE9E2">
+                <tspan x="392" y="342">D</tspan>
+            </text>
+            <text id="Design-challenge/goa" font-size="32" fill="#2E5B8B">
+                <tspan x="297" y="261">Design challenge/goals</tspan>
+            </text>
+            <text id="44%-users-of-Flygres" font-size="16" fill="#000000" fill-opacity="0.87">
+                <tspan x="26.09375" y="305">44% users of Flygresor has been active on the desktop and tablet web. Most of the </tspan>
+                <tspan x="338.703125" y="327">profit comes from the desktop clickouts.</tspan>
+                <tspan x="639" y="349"></tspan>
+                <tspan x="9.0859375" y="371">Keeping the successful clickouts, enhancing the website user interface and arranging </tspan>
+                <tspan x="18.765625" y="393">numbers of functionalities while remain keeping the user stickiness and application </tspan>
+                <tspan x="170.234375" y="415">consistency is the key requirements of the new website design.</tspan>
+            </text>
+        </g>
+        <path d="M885.5,1013.5 L635.5,1410.5" id="Line" stroke="#E6E8ED" stroke-width="3" stroke-linecap="square" fill-rule="nonzero"></path>
+        <polygon id="Rectangle" fill="url(#linearGradient-5)" opacity="0.157714844" points="699.962143 1010 884 1010 634.044872 1416 430 1416"></polygon>
+        <g id="Group-13" transform="translate(847.000000, 1129.000000)" font-size="16">
+            <text id="Each-module-process" font-family="OpenSans-Bold, Open Sans" font-weight="bold" fill="#2E5B8B">
+                <tspan x="0" y="17">Each module process </tspan>
+            </text>
+            <text id="For-each-module,-fir" font-family="OpenSans, Open Sans" font-weight="normal" fill="#000000" fill-opacity="0.87">
+                <tspan x="0" y="45">For each module, first analysing competitors; second </tspan>
+                <tspan x="0" y="67">assessing the pros and cons of all webs; then </tspan>
+                <tspan x="0" y="89">summary the right solution.</tspan>
+            </text>
+        </g>
+        <text id="Results-presentation" font-family="OpenSans-Bold, Open Sans" font-size="16" font-weight="bold" fill="#2E5B8B">
+            <tspan x="677" y="1414">Results presentation and improvements </tspan>
+        </text>
+        <text id="Experience-the-entir" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.87">
+            <tspan x="677" y="1442">Experience the entire process as a real customer. </tspan>
+            <tspan x="677" y="1464">Improve and iterate. At the end, deliver the </tspan>
+            <tspan x="677" y="1486">design, discuss and iterate again.</tspan>
+        </text>
+        <text id="Overall-task-module" font-family="OpenSans-Bold, Open Sans" font-size="16" font-weight="bold" fill="#2E5B8B">
+            <tspan x="927" y="1025">Overall task module</tspan>
+        </text>
+        <text id="Based-on-the-search" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.87">
+            <tspan x="927" y="1053">Based on the search process, we difine three </tspan>
+            <tspan x="927" y="1075">modules, searchPage, searchResultPage, </tspan>
+            <tspan x="927" y="1097">flightDetailsPage</tspan>
+        </text>
+        <g id="Group-13" transform="translate(757.000000, 1274.000000)" font-size="16">
+            <text id="Specific-task-divisi" font-family="OpenSans-Bold, Open Sans" font-weight="bold" fill="#2E5B8B">
+                <tspan x="0" y="17">Specific task division and collaboration</tspan>
+            </text>
+            <text id="Separately-design-th" font-family="OpenSans, Open Sans" font-weight="normal" fill="#000000" fill-opacity="0.87">
+                <tspan x="0" y="45">Separately design the solution in </tspan>
+                <tspan x="247.109375" y="45" font-family="PingFangSC-Regular, PingFang SC">a certain </tspan>
+                <tspan x="0" y="67" font-family="PingFangSC-Regular, PingFang SC">short time</tspan>
+                <tspan x="75.536" y="67">, analysing, and merged. </tspan>
+            </text>
+        </g>
+        <g id="title" transform="translate(226.000000, 811.000000)" font-family="OpenSans, Open Sans" font-weight="normal">
+            <text id="T" font-size="320" letter-spacing="121.25" fill="#FDE9E2">
+                <tspan x="0" y="342">T</tspan>
+            </text>
+            <text id="Timeline" font-size="48" fill="#2E5B8B">
+                <tspan x="77" y="297">Timeline</tspan>
+            </text>
+        </g>
+        <text id="To-adapt-the-mobile" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.87">
+            <tspan x="182" y="1157">To adapt the mobile new design, the PM proposed that the </tspan>
+            <tspan x="182" y="1179">quick redesign of the old desktop and tablet user interface is </tspan>
+            <tspan x="182" y="1201">necessary. Although not many new functions required, the task </tspan>
+            <tspan x="182" y="1223">is urgent (2 weeks) and huge. Simultaneously, keeping the </tspan>
+            <tspan x="182" y="1245">consistency and enhancing the user experience is the crucial </tspan>
+            <tspan x="182" y="1267">index.    </tspan>
+        </text>
+        <g id="Group-4" transform="translate(808.000000, 1002.000000)">
+            <circle id="Oval" fill="url(#linearGradient-6)" transform="translate(69.000000, 17.000000) rotate(90.000000) translate(-69.000000, -17.000000) " cx="69" cy="17" r="13"></circle>
+            <text id="Step-1" font-family="AvenirNext-Medium, Avenir Next" font-size="26" font-weight="400" fill="#000000" fill-opacity="0.87">
+                <tspan x="0" y="26">Step 1</tspan>
+            </text>
+        </g>
+        <g id="Group-7" transform="translate(737.000000, 1124.000000)">
+            <circle id="Oval" fill="url(#linearGradient-6)" transform="translate(69.000000, 17.000000) rotate(90.000000) translate(-69.000000, -17.000000) " cx="69" cy="17" r="13"></circle>
+            <text id="Step-2" font-family="AvenirNext-Medium, Avenir Next" font-size="26" font-weight="400" fill="#000000" fill-opacity="0.87">
+                <tspan x="0" y="26">Step 2</tspan>
+            </text>
+        </g>
+        <g id="Group-16" transform="translate(645.000000, 1268.000000)">
+            <circle id="Oval" fill="url(#linearGradient-6)" transform="translate(68.000000, 17.000000) rotate(90.000000) translate(-68.000000, -17.000000) " cx="68" cy="17" r="13"></circle>
+            <text id="Step-3" font-family="AvenirNext-Medium, Avenir Next" font-size="26" font-weight="400" fill="#000000" fill-opacity="0.87">
+                <tspan x="0" y="26">Step 3</tspan>
+            </text>
+        </g>
+        <g id="Group-22" transform="translate(566.000000, 1391.000000)">
+            <circle id="Oval" fill="url(#linearGradient-6)" transform="translate(69.000000, 17.000000) rotate(90.000000) translate(-69.000000, -17.000000) " cx="69" cy="17" r="13"></circle>
+            <text id="Step-4" font-family="AvenirNext-Medium, Avenir Next" font-size="26" font-weight="400" fill="#000000" fill-opacity="0.87">
+                <tspan x="0" y="26">Step 4</tspan>
+            </text>
+        </g>
+        <text id="End-delivery-design" font-family="OpenSans, Open Sans" font-size="36" font-weight="normal" fill="#2E5B8B">
+            <tspan x="934" y="1853">End delivery design</tspan>
+        </text>
+    </g>
+</svg>

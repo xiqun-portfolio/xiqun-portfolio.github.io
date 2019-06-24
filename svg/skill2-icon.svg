@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="31px" height="32px" viewBox="0 0 31 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Writing</title>
+    <desc>Created with Sketch.</desc>
+    <g id="indexPage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.86">
+        <g id="XiqunPortfolio-selected" transform="translate(-536.000000, -1299.000000)">
+            <g id="Writing" transform="translate(518.666667, 1281.000000)">
+                <path d="M35.67,20 L38.67,20 C39.7745695,20 40.67,20.8954305 40.67,22 L40.67,37.21" id="Shape" stroke="#6B400D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M18.67,24.17 L18.67,22 C18.67,20.8954305 19.5654305,20 20.67,20 L23.67,20" id="Shape" stroke="#6B400D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M18.67,30.08 L18.67,28.44" id="Shape" stroke="#6B400D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M36.17,49 L20.67,49 C19.5654305,49 18.67,48.1045695 18.67,47 L18.67,34.58" id="Shape" stroke="#6B400D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M23.67,19 L35.67,19 L35.67,21.5 C35.67,22.0522847 35.2222847,22.5 34.67,22.5 L24.67,22.5 C24.1177153,22.5 23.67,22.0522847 23.67,21.5 L23.67,19 Z" id="Shape" stroke="#6B400D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <polygon id="Shape" stroke="#6B400D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="41.67 35.47 35.67 45.87 36.17 49 39.13 47.87 45.13 37.47"></polygon>
+                <rect id="Rectangle-path" stroke="#6B400D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(44.277605, 34.958172) rotate(30.000000) translate(-44.277605, -34.958172) " x="42.2776049" y="33.2081719" width="4" height="3.5"></rect>
+                <path d="M36.67,35.6 L36.67,27 C36.67,26.4477153 36.2222847,26 35.67,26 L23.67,26 C23.1177153,26 22.67,26.4477153 22.67,27 L22.67,44 C22.67,44.5522847 23.1177153,45 23.67,45 L30.4,45 C31.1137984,44.9992679 31.773101,44.6181681 32.13,44 L36.4,36.6 C36.5741167,36.2952744 36.6670843,35.9509499 36.67,35.6 Z" id="Shape" fill="#FFC824" fill-rule="nonzero"></path>
+                <rect id="Rectangle-path" x="0" y="0" width="60" height="60"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

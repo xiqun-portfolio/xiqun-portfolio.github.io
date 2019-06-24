@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="4743px" viewBox="0 0 1440 4743" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Uface</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Uface" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="1440" height="4743"></rect>
+        <text id="This-is-one-typical" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" letter-spacing="0.002933333" fill="#000000" fill-opacity="0.87">
+            <tspan x="326" y="224">This is one typical example of my work during my internship period in the China. Based on the layout and </tspan>
+            <tspan x="326" y="246">architecture of original website and App combining with new requirements, I drawn the draft in the </tspan>
+            <tspan x="326" y="268">beginning, through comprehensive discussion with many leaders who provide me some good points, I </tspan>
+            <tspan x="326" y="290">made the Interaction Design using the Axure. Now, It was launched and used by 1000000.</tspan>
+        </text>
+        <g id="Group" transform="translate(599.000000, 111.000000)">
+            <g id="Group-6" transform="translate(56.000000, 15.000000)" fill="#000000" fill-opacity="0.87" font-family="OpenSans, Open Sans" font-size="32" font-weight="normal">
+                <text id="Introduction">
+                    <tspan x="0" y="34">Introduction</tspan>
+                </text>
+            </g>
+            <g id="Group-5" transform="translate(24.097942, 22.153820) rotate(55.000000) translate(-24.097942, -22.153820) translate(12.097942, 1.653820)" fill-rule="nonzero" stroke="#000000" stroke-linecap="round" stroke-opacity="0.87" stroke-width="3">
+                <path d="M1.53103257,1.40157726 L1.53103257,40.4015773" id="Line-14"></path>
+                <path d="M21.5310326,1.40157726 L21.5310326,40.4015773" id="Line-14"></path>
+            </g>
+        </g>
+        <g id="Group-4" transform="translate(326.000000, 471.000000)">
+            <g id="Group" transform="translate(255.000000, 0.000000)">
+                <g id="Group-6" transform="translate(56.000000, 15.000000)"></g>
+            </g>
+        </g>
+        <text id="This-app-works-toget" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" letter-spacing="0.002933333" fill="#000000" fill-opacity="0.87">
+            <tspan x="326" y="525">This app works together with the device below which plays the role of face recognition. Every staff comes </tspan>
+            <tspan x="326" y="547">in and out will be recorded and all the data such as attendance time, person and device name will be sent </tspan>
+            <tspan x="326" y="569">to the app right away. Everyone can see their working time anytime as the presence is transparent. This </tspan>
+            <tspan x="326" y="591">helps big, especially to the company which has lot workers and strict schedule rules.</tspan>
+        </text>
+        <g id="Group-8" transform="translate(568.000000, 411.000000)">
+            <text id="Face-Attendance" font-family="OpenSans, Open Sans" font-size="32" font-weight="normal" fill="#000000" fill-opacity="0.87">
+                <tspan x="56" y="49">Face Attendance</tspan>
+            </text>
+            <g id="Group-5" transform="translate(24.097942, 22.153820) rotate(55.000000) translate(-24.097942, -22.153820) translate(12.097942, 1.653820)" fill-rule="nonzero" stroke="#000000" stroke-linecap="round" stroke-opacity="0.87" stroke-width="3">
+                <path d="M1.53103257,1.40157726 L1.53103257,40.4015773" id="Line-14"></path>
+                <path d="M21.5310326,1.40157726 L21.5310326,40.4015773" id="Line-14"></path>
+            </g>
+        </g>
+        <text id="This-device-owns-man" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" letter-spacing="0.002933333" fill="#000000" fill-opacity="0.87">
+            <tspan x="326" y="3264">This device owns many special functions, for instance, smart attendance face check in, employee </tspan>
+            <tspan x="326" y="3286">attendance statistics report, online approval of leave, vistor pre-record etc. This part brings you to the </tspan>
+            <tspan x="326" y="3308">scenario on how to operate it if the customers drop in to visit.   </tspan>
+        </text>
+        <g id="Group-6" transform="translate(470.000000, 3150.000000)">
+            <g id="Group-28"></g>
+        </g>
+        <g id="Group-7" transform="translate(446.000000, 3150.000000)">
+            <text id="Customer-visit-opera" font-family="OpenSans, Open Sans" font-size="32" font-weight="normal" fill="#000000" fill-opacity="0.87">
+                <tspan x="56" y="49">Customer visit operation process</tspan>
+            </text>
+            <g id="Group-5" transform="translate(24.097942, 22.153820) rotate(55.000000) translate(-24.097942, -22.153820) translate(12.097942, 1.653820)" fill-rule="nonzero" stroke="#000000" stroke-linecap="round" stroke-opacity="0.87" stroke-width="3">
+                <path d="M1.53103257,1.40157726 L1.53103257,40.4015773" id="Line-14"></path>
+                <path d="M21.5310326,1.40157726 L21.5310326,40.4015773" id="Line-14"></path>
+            </g>
+        </g>
+        <g id="Group-29" transform="translate(938.000000, 3625.000000)">
+            <rect id="Rectangle-24" fill-opacity="0.5" fill="#36B7FB" fill-rule="nonzero" x="0" y="0" width="24" height="24" rx="2"></rect>
+            <text id="4" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" letter-spacing="0.002933333" fill="#000000" fill-opacity="0.87">
+                <tspan x="7.5" y="18">4</tspan>
+            </text>
+        </g>
+        <text id="Vistor-face-recongni" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" letter-spacing="0.002933333" fill="#000000" fill-opacity="0.87">
+            <tspan x="977" y="3643">Vistor face recongnition and entre </tspan>
+        </text>
+        <g id="Group-29" transform="translate(607.000000, 3625.000000)">
+            <rect id="Rectangle-24" fill-opacity="0.5" fill="#36B7FB" fill-rule="nonzero" x="0" y="0" width="24" height="24" rx="2"></rect>
+            <text id="5" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" letter-spacing="0.002933333" fill="#000000" fill-opacity="0.87">
+                <tspan x="8" y="18">5</tspan>
+            </text>
+        </g>
+        <text id="Screen-flickers-vist" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" letter-spacing="0.002933333" fill="#000000" fill-opacity="0.87">
+            <tspan x="646" y="3643">Screen flickers vistor name</tspan>
+        </text>
+        <g id="Group-29" transform="translate(213.000000, 3625.000000)">
+            <rect id="Rectangle-24" fill-opacity="0.5" fill="#36B7FB" fill-rule="nonzero" x="0" y="0" width="24" height="24" rx="2"></rect>
+            <text id="6" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" letter-spacing="0.002933333" fill="#000000" fill-opacity="0.87">
+                <tspan x="7.5" y="18">6</tspan>
+            </text>
+        </g>
+        <text id="APP-receive-vistor-i" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" letter-spacing="0.002933333" fill="#000000" fill-opacity="0.87">
+            <tspan x="252" y="3643">APP receive vistor information </tspan>
+        </text>
+        <g id="Group-31" transform="translate(213.000000, 3381.000000)">
+            <g id="Group-30">
+                <rect id="Rectangle-24" fill-opacity="0.5" fill="#36B7FB" fill-rule="nonzero" x="0" y="0" width="24" height="24" rx="2"></rect>
+                <text id="1" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" letter-spacing="0.002933333" fill="#000000" fill-opacity="0.87">
+                    <tspan x="8" y="18">1</tspan>
+                </text>
+            </g>
+            <text id="Install-Uface-smart" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" letter-spacing="0.002933333" fill="#000000" fill-opacity="0.87">
+                <tspan x="39" y="18">Install Uface smart front desk</tspan>
+            </text>
+        </g>
+        <g id="Group-33" transform="translate(608.000000, 3381.000000)">
+            <g id="Group-29">
+                <rect id="Rectangle-24" fill-opacity="0.5" fill="#36B7FB" fill-rule="nonzero" x="0" y="0" width="24" height="24" rx="2"></rect>
+                <text id="2" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" letter-spacing="0.002933333" fill="#000000" fill-opacity="0.87">
+                    <tspan x="8" y="18">2</tspan>
+                </text>
+            </g>
+            <text id="Download-Uface-APP" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" letter-spacing="0.002933333" fill="#000000" fill-opacity="0.87">
+                <tspan x="39" y="18">Download Uface APP</tspan>
+            </text>
+        </g>
+        <g id="Group-34" transform="translate(938.000000, 3381.000000)">
+            <g id="Group-29">
+                <rect id="Rectangle-24" fill-opacity="0.5" fill="#36B7FB" fill-rule="nonzero" x="0" y="0" width="24" height="24" rx="2"></rect>
+                <text id="3" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" letter-spacing="0.002933333" fill="#000000" fill-opacity="0.87">
+                    <tspan x="8" y="18">3</tspan>
+                </text>
+            </g>
+            <text id="Web-Employee-informa" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" letter-spacing="0.002933333" fill="#000000" fill-opacity="0.87">
+                <tspan x="39" y="18">Web Employee information input</tspan>
+            </text>
+        </g>
+        <polyline id="Path-13" stroke="#EF7545" stroke-width="2" opacity="0.8" stroke-linecap="round" stroke-linejoin="round" fill-rule="nonzero" transform="translate(512.333333, 3483.000000) rotate(270.000000) translate(-512.333333, -3483.000000) " points="498.333333 3476.66667 512.851852 3489.33333 526.333333 3476.66667"></polyline>
+        <polyline id="Path-13" stroke="#EF7545" stroke-width="2" opacity="0.8" stroke-linecap="round" stroke-linejoin="round" fill-rule="nonzero" transform="translate(523.666667, 3483.000000) rotate(270.000000) translate(-523.666667, -3483.000000) " points="509.666667 3476.66667 524.185185 3489.33333 537.666667 3476.66667"></polyline>
+        <polyline id="Path-13" stroke="#EF7545" stroke-width="2" opacity="0.8" stroke-linecap="round" stroke-linejoin="round" fill-rule="nonzero" transform="translate(888.333333, 3483.000000) rotate(270.000000) translate(-888.333333, -3483.000000) " points="874.333333 3476.66667 888.851852 3489.33333 902.333333 3476.66667"></polyline>
+        <polyline id="Path-13" stroke="#EF7545" stroke-width="2" opacity="0.8" stroke-linecap="round" stroke-linejoin="round" fill-rule="nonzero" transform="translate(899.666667, 3483.000000) rotate(270.000000) translate(-899.666667, -3483.000000) " points="885.666667 3476.66667 900.185185 3489.33333 913.666667 3476.66667"></polyline>
+        <polyline id="Path-13" stroke="#EF7545" stroke-width="2" opacity="0.8" stroke-linecap="round" stroke-linejoin="round" fill-rule="nonzero" transform="translate(523.666667, 3727.000000) rotate(90.000000) translate(-523.666667, -3727.000000) " points="509.666667 3720.66667 524.185185 3733.33333 537.666667 3720.66667"></polyline>
+        <polyline id="Path-13" stroke="#EF7545" stroke-width="2" opacity="0.8" stroke-linecap="round" stroke-linejoin="round" fill-rule="nonzero" transform="translate(512.333333, 3727.000000) rotate(90.000000) translate(-512.333333, -3727.000000) " points="498.333333 3720.66667 512.851852 3733.33333 526.333333 3720.66667"></polyline>
+        <polyline id="Path-13" stroke="#EF7545" stroke-width="2" opacity="0.8" stroke-linecap="round" stroke-linejoin="round" fill-rule="nonzero" transform="translate(888.333333, 3483.000000) rotate(270.000000) translate(-888.333333, -3483.000000) " points="874.333333 3476.66667 888.851852 3489.33333 902.333333 3476.66667"></polyline>
+        <polyline id="Path-13" stroke="#EF7545" stroke-width="2" opacity="0.8" stroke-linecap="round" stroke-linejoin="round" fill-rule="nonzero" transform="translate(899.666667, 3483.000000) rotate(270.000000) translate(-899.666667, -3483.000000) " points="885.666667 3476.66667 900.185185 3489.33333 913.666667 3476.66667"></polyline>
+        <polyline id="Path-13" stroke="#EF7545" stroke-width="2" opacity="0.8" stroke-linecap="round" stroke-linejoin="round" fill-rule="nonzero" transform="translate(899.666667, 3731.000000) rotate(90.000000) translate(-899.666667, -3731.000000) " points="885.666667 3724.66667 900.185185 3737.33333 913.666667 3724.66667"></polyline>
+        <polyline id="Path-13" stroke="#EF7545" stroke-width="2" opacity="0.8" stroke-linecap="round" stroke-linejoin="round" fill-rule="nonzero" transform="translate(888.333333, 3731.000000) rotate(90.000000) translate(-888.333333, -3731.000000) " points="874.333333 3724.66667 888.851852 3737.33333 902.333333 3724.66667"></polyline>
+        <circle id="Oval-7" stroke-opacity="0.7" stroke="#007AFF" stroke-width="14" fill="#007AFF" fill-rule="nonzero" opacity="0.5" cx="346.5" cy="3730.5" r="45.5"></circle>
+        <path d="M326.103448,3727.78937 C326.103448,3727.78937 338.582853,3745.8845 339.830793,3744.63656 C340.662753,3743.8046 349.606326,3735.69299 366.661512,3720.30172" id="Path-43" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round" fill-rule="nonzero"></path>
+        <text id="This-device-works-to" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" letter-spacing="0.002933333" fill="#000000" fill-opacity="0.87">
+            <tspan x="334" y="2404">This device works together with the app right below and web on the right. The product composition </tspan>
+            <tspan x="334" y="2426">includes another three parts, desktop base, power adapter, and wall fixing bracket. This makes the </tspan>
+            <tspan x="334" y="2448">device more flexible to fit in different office situations. The information on both app and web updates </tspan>
+            <tspan x="334" y="2470">simultaneously.</tspan>
+        </text>
+        <g id="Group-3" transform="translate(583.000000, 2290.000000)">
+            <g id="Group-6" transform="translate(56.000000, 15.000000)" fill="#000000" fill-opacity="0.87" font-family="OpenSans, Open Sans" font-size="32" font-weight="normal">
+                <text id="Paints-to-solve">
+                    <tspan x="0" y="34">Paints to solve</tspan>
+                </text>
+            </g>
+            <g id="Group-5" transform="translate(24.097942, 22.153820) rotate(55.000000) translate(-24.097942, -22.153820) translate(12.097942, 1.653820)" fill-rule="nonzero" stroke="#000000" stroke-linecap="round" stroke-opacity="0.87" stroke-width="3">
+                <path d="M1.53103257,1.40157726 L1.53103257,40.4015773" id="Line-14"></path>
+                <path d="M21.5310326,1.40157726 L21.5310326,40.4015773" id="Line-14"></path>
+            </g>
+        </g>
+        <g id="Group-4" transform="translate(534.000000, 1321.000000)">
+            <g id="Group">
+                <g id="Group-6" transform="translate(56.000000, 15.000000)" fill="#000000" fill-opacity="0.87" font-family="OpenSans, Open Sans" font-size="32" font-weight="normal">
+                    <text id="Product-Composition">
+                        <tspan x="0" y="34">Product Composition</tspan>
+                    </text>
+                </g>
+                <g id="Group-5" transform="translate(24.097942, 22.153820) rotate(55.000000) translate(-24.097942, -22.153820) translate(12.097942, 1.653820)" fill-rule="nonzero" stroke="#000000" stroke-linecap="round" stroke-opacity="0.87" stroke-width="3">
+                    <path d="M1.53103257,1.40157726 L1.53103257,40.4015773" id="Line-14"></path>
+                    <path d="M21.5310326,1.40157726 L21.5310326,40.4015773" id="Line-14"></path>
+                </g>
+            </g>
+        </g>
+        <text id="This-device-works-to" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" letter-spacing="0.002933333" fill="#000000" fill-opacity="0.87">
+            <tspan x="326" y="1430">This device works together with the app right below and web on the right. The product composition </tspan>
+            <tspan x="326" y="1452">includes another three parts, desktop base, power adapter, and wall fixing bracket. This makes the device </tspan>
+            <tspan x="326" y="1474">more flexible to fit in different office situations. The information on both app and web updates </tspan>
+            <tspan x="326" y="1496">simultaneously.</tspan>
+        </text>
+        <g id="Group-49" transform="translate(593.000000, 3964.000000)">
+            <text id="Lunch-screen" font-family="OpenSans, Open Sans" font-size="32" font-weight="normal" fill="#000000" fill-opacity="0.87">
+                <tspan x="56" y="48.9118585">Lunch screen</tspan>
+            </text>
+            <g id="Group-5" transform="translate(23.675534, 22.500000) rotate(55.000000) translate(-23.675534, -22.500000) translate(11.675534, 2.000000)" fill-rule="nonzero" stroke="#000000" stroke-linecap="round" stroke-opacity="0.87" stroke-width="3">
+                <path d="M1.53103257,1.40157726 L1.53103257,40.4015773" id="Line-14"></path>
+                <path d="M21.5310326,1.40157726 L21.5310326,40.4015773" id="Line-14"></path>
+            </g>
+        </g>
+        <g id="sub-nav" transform="translate(221.000000, 4681.000000)" fill="#FFFFFF" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal">
+            <g id="Group-52">
+                <text id="USer-Research+Usabil">
+                    <tspan x="0" y="15">USer Research+Usability Test</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

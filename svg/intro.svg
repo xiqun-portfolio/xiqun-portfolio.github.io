@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1220px" height="524px" viewBox="0 0 1220 524" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Group 15</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="481.472599%" id="radialGradient-1">
+            <stop stop-color="#F9C052" offset="0%"></stop>
+            <stop stop-color="#F76B1C" offset="100%"></stop>
+        </radialGradient>
+        <linearGradient x1="0%" y1="50.1333458%" x2="85.1514536%" y2="49.6022285%" id="linearGradient-2">
+            <stop stop-color="#F9C052" offset="0%"></stop>
+            <stop stop-color="#F89335" offset="73.2534335%"></stop>
+            <stop stop-color="#F76B1C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="60.4641899%" y1="50.3150734%" x2="2.66763057%" y2="49.3707552%" id="linearGradient-3">
+            <stop stop-color="#F9C052" offset="0%"></stop>
+            <stop stop-color="#F76B1C" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-4" x="0" y="0" width="311" height="442" rx="6"></rect>
+        <filter x="-19.8%" y="-13.9%" width="139.5%" height="127.8%" filterUnits="objectBoundingBox" id="filter-5">
+            <feMorphology radius="3" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="17.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0769644475 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="indexPage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Xiqun-portfolio-main" transform="translate(-79.000000, -2537.000000)">
+            <g id="Group-15" transform="translate(120.000000, 2578.000000)">
+                <g id="experience" transform="translate(880.000000, 119.000000)">
+                    <path d="M2,47 L2,236.5" id="Line" stroke-opacity="0.87" stroke="#616161" stroke-width="0.5" stroke-linecap="round"></path>
+                    <g id="exp2" transform="translate(0.000000, 63.000000)">
+                        <g id="bullet" transform="translate(0.000000, 12.000000)" fill="#000000" fill-opacity="0.87" opacity="0.800722948" stroke="url(#radialGradient-1)" stroke-width="2">
+                            <circle id="Oval-1" cx="2.5" cy="2.5" r="3.5"></circle>
+                        </g>
+                        <text id="location" font-family="OpenSans-Bold, Open Sans" font-size="16" font-weight="bold" letter-spacing="0.9142854" fill="#FFFFFF">
+                            <tspan x="20" y="43">Flygresor</tspan>
+                        </text>
+                        <text id="location" font-family="OpenSans-Bold, Open Sans" font-size="16" font-weight="bold" letter-spacing="0.9142854" fill="#FFFFFF">
+                            <tspan x="130" y="43">Stockholm, Sweden</tspan>
+                        </text>
+                        <path d="M115.5,33.5 L115.5,43.5" id="Line-2" stroke="#FFFFFF" stroke-linecap="square" fill-rule="nonzero"></path>
+                        <text id="title" font-family="OpenSans-Italic, Open Sans" font-size="16" font-style="italic" font-weight="normal" line-spacing="12" letter-spacing="0.8888889" fill="#FFFFFF">
+                            <tspan x="20" y="72">UX/UI Designer</tspan>
+                        </text>
+                        <text id="time" opacity="0.700000048" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" letter-spacing="1.8" fill="#FFFFFF">
+                            <tspan x="21" y="17">Jan 2018 - present</tspan>
+                        </text>
+                    </g>
+                    <g id="exp1" transform="translate(0.000000, 166.000000)">
+                        <g id="bullet" transform="translate(0.000000, 11.000000)" fill="#000000" fill-opacity="0.87" opacity="0.800722948" stroke="url(#radialGradient-1)" stroke-width="2">
+                            <circle id="Oval-1" cx="2.5" cy="2.5" r="3.5"></circle>
+                        </g>
+                        <text id="location" font-family="OpenSans-Bold, Open Sans" font-size="16" font-weight="bold" letter-spacing="0.9142854" fill="#FFFFFF">
+                            <tspan x="21" y="43">Uni-Ubi  </tspan>
+                        </text>
+                        <text id="location" font-family="OpenSans-Bold, Open Sans" font-size="16" font-weight="bold" letter-spacing="0.9142854" fill="#FFFFFF">
+                            <tspan x="111" y="43">Hang zhou, China</tspan>
+                        </text>
+                        <path d="M99.5,32.5 L99.5,42.5" id="Line-2" stroke="#FFFFFF" stroke-linecap="square" fill-rule="nonzero"></path>
+                        <text id="title" font-family="OpenSans-Italic, Open Sans" font-size="16" font-style="italic" font-weight="normal" line-spacing="12" letter-spacing="0.8888889" fill="#FFFFFF">
+                            <tspan x="21" y="71">Assistant Project Manager</tspan>
+                        </text>
+                        <text id="time" opacity="0.700000048" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" letter-spacing="1.8" fill="#FFFFFF">
+                            <tspan x="21" y="17">May 2017 - Sep 2017</tspan>
+                        </text>
+                    </g>
+                    <path d="M38.03125,24 L24.875,24 L24.875,1.15625 L38.03125,1.15625 L38.03125,5.125 L29.71875,5.125 L29.71875,10.140625 L37.453125,10.140625 L37.453125,14.109375 L29.71875,14.109375 L29.71875,20 L38.03125,20 L38.03125,24 Z M64.8567352,24 L59.3254852,24 L54.0129852,15.359375 L48.7004852,24 L43.5129852,24 L51.0911102,12.21875 L43.9973602,1.15625 L49.3411102,1.15625 L54.2629852,9.375 L59.0911102,1.15625 L64.3098602,1.15625 L57.1379852,12.484375 L64.8567352,24 Z M76.1665955,11.90625 L77.7603455,11.90625 C79.2499362,11.90625 80.3645084,11.6119821 81.1040955,11.0234375 C81.8436825,10.4348929 82.2134705,9.57813063 82.2134705,8.453125 C82.2134705,7.31770266 81.9035777,6.47916937 81.283783,5.9375 C80.6639882,5.39583063 79.6926437,5.125 78.3697205,5.125 L76.1665955,5.125 L76.1665955,11.90625 Z M87.1040955,8.28125 C87.1040955,10.7395956 86.335874,12.6197852 84.799408,13.921875 C83.2629419,15.2239648 81.078068,15.875 78.2447205,15.875 L76.1665955,15.875 L76.1665955,24 L71.3228455,24 L71.3228455,1.15625 L78.6197205,1.15625 C81.3905676,1.15625 83.4973174,1.7525982 84.940033,2.9453125 C86.3827485,4.1380268 87.1040955,5.91665484 87.1040955,8.28125 Z M108.163956,24 L95.0077057,24 L95.0077057,1.15625 L108.163956,1.15625 L108.163956,5.125 L99.8514557,5.125 L99.8514557,10.140625 L107.585831,10.140625 L107.585831,14.109375 L99.8514557,14.109375 L99.8514557,20 L108.163956,20 L108.163956,24 Z M121.364441,11.296875 L122.926941,11.296875 C124.458199,11.296875 125.588396,11.0416692 126.317566,10.53125 C127.046736,10.0208308 127.411316,9.21875547 127.411316,8.125 C127.411316,7.04166125 127.038924,6.27083563 126.294128,5.8125 C125.549333,5.35416438 124.395699,5.125 122.833191,5.125 L121.364441,5.125 L121.364441,11.296875 Z M121.364441,15.234375 L121.364441,24 L116.520691,24 L116.520691,1.15625 L123.176941,1.15625 C126.281123,1.15625 128.577975,1.72134852 130.067566,2.8515625 C131.557157,3.98177648 132.301941,5.69790516 132.301941,8 C132.301941,9.34375672 131.932153,10.5390573 131.192566,11.5859375 C130.452979,12.6328177 129.406114,13.453122 128.051941,14.046875 C131.489458,19.1823173 133.729019,22.4999925 134.770691,24 L129.395691,24 L123.942566,15.234375 L121.364441,15.234375 Z M141.236801,24 L141.236801,1.15625 L146.080551,1.15625 L146.080551,24 L141.236801,24 Z M168.577911,24 L155.421661,24 L155.421661,1.15625 L168.577911,1.15625 L168.577911,5.125 L160.265411,5.125 L160.265411,10.140625 L167.999786,10.140625 L167.999786,14.109375 L160.265411,14.109375 L160.265411,20 L168.577911,20 L168.577911,24 Z M197.200272,24 L191.044022,24 L181.106522,6.71875 L180.965897,6.71875 C181.163814,9.77084859 181.262772,11.9479102 181.262772,13.25 L181.262772,24 L176.934647,24 L176.934647,1.15625 L183.044022,1.15625 L192.965897,18.265625 L193.075272,18.265625 C192.919021,15.2968602 192.840897,13.1979228 192.840897,11.96875 L192.840897,1.15625 L197.200272,1.15625 L197.200272,24 Z M216.244507,4.859375 C214.421581,4.859375 213.010137,5.54426398 212.010132,6.9140625 C211.010127,8.28386102 210.510132,10.1926961 210.510132,12.640625 C210.510132,17.7344005 212.421571,20.28125 216.244507,20.28125 C217.848682,20.28125 219.79137,19.8802123 222.072632,19.078125 L222.072632,23.140625 C220.197622,23.9218789 218.103893,24.3125 215.791382,24.3125 C212.468449,24.3125 209.926807,23.3046976 208.166382,21.2890625 C206.405956,19.2734274 205.525757,16.3802272 205.525757,12.609375 C205.525757,10.2343631 205.958044,8.15365477 206.822632,6.3671875 C207.687219,4.58072023 208.929395,3.21094227 210.549194,2.2578125 C212.168994,1.30468273 214.067413,0.828125 216.244507,0.828125 C218.463268,0.828125 220.692412,1.36457797 222.932007,2.4375 L221.369507,6.375 C220.515336,5.96874797 219.655969,5.61458484 218.791382,5.3125 C217.926794,5.01041516 217.077844,4.859375 216.244507,4.859375 Z M243.679367,24 L230.523117,24 L230.523117,1.15625 L243.679367,1.15625 L243.679367,5.125 L235.366867,5.125 L235.366867,10.140625 L243.101242,10.140625 L243.101242,14.109375 L235.366867,14.109375 L235.366867,20 L243.679367,20 L243.679367,24 Z" id="exp" fill="url(#linearGradient-2)" opacity="0.88"></path>
+                </g>
+                <g id="Education" transform="translate(412.000000, 120.000000)">
+                    <path d="M2,46 L2,301.5" id="Line" stroke-opacity="0.87" stroke="#616161" stroke-width="0.5" stroke-linecap="round"></path>
+                    <g id="edu2" transform="translate(0.000000, 213.000000)">
+                        <text id="location" font-family="OpenSans-Bold, Open Sans" font-size="16" font-weight="bold" letter-spacing="0.9142858" fill="#FFFFFF">
+                            <tspan x="23" y="43">JI Lin University (985)</tspan>
+                        </text>
+                        <text id="time" opacity="0.700000048" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" letter-spacing="1.8" fill="#FFFFFF">
+                            <tspan x="21" y="17">Sep 2012 - Jul 2016</tspan>
+                        </text>
+                        <g id="bullet" transform="translate(0.000000, 12.000000)" fill="#000000" fill-opacity="0.87" opacity="0.800722948" stroke="url(#radialGradient-1)" stroke-width="2">
+                            <circle id="Oval-1" cx="2.5" cy="2.5" r="3.5"></circle>
+                        </g>
+                        <text id="title" opacity="0.7" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" line-spacing="12" letter-spacing="0.8888889" fill="#FFFFFF">
+                            <tspan x="22" y="74">Bachelor in</tspan>
+                            <tspan x="115.72309" y="74" letter-spacing="0.7901235"> </tspan>
+                            <tspan x="129.466339" y="78.765625" font-family="OpenSans-Italic, Open Sans" font-style="italic" letter-spacing="0.7901235"></tspan>
+                            <tspan x="22" y="86" letter-spacing="0.7901235"> </tspan>
+                        </text>
+                        <text id="Internet-of-Things" font-family="OpenSans-Italic, Open Sans" font-size="16" font-style="italic" font-weight="normal" line-spacing="12" letter-spacing="0.8888889" fill="#FFFFFF">
+                            <tspan x="122" y="73">Internet of Things</tspan>
+                        </text>
+                        <text id="Finance-Planing" font-family="OpenSans-Italic, Open Sans" font-size="16" font-style="italic" font-weight="normal" line-spacing="12" letter-spacing="0.8888889" fill="#FFFFFF">
+                            <tspan x="100" y="97">Finance Planing</tspan>
+                        </text>
+                        <text id="Minor-in" opacity="0.7" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" line-spacing="12" letter-spacing="0.8888889" fill="#FFFFFF">
+                            <tspan x="22" y="97">Minor in</tspan>
+                            <tspan x="91.6423612" y="97" letter-spacing="0.7901235"> </tspan>
+                        </text>
+                    </g>
+                    <g id="edu1" transform="translate(0.000000, 63.000000)">
+                        <text id="location" font-family="OpenSans-Bold, Open Sans" font-size="16" font-weight="bold" line-spacing="23" letter-spacing="0.9142858" fill="#FFFFFF">
+                            <tspan x="21" y="42">Royal Institute of Technology</tspan>
+                            <tspan x="21" y="65">Aalto School of Science</tspan>
+                        </text>
+                        <g id="Group-11" transform="translate(21.000000, 80.000000)" fill="#FFFFFF" font-size="16" font-weight="normal" letter-spacing="0.8888889" line-spacing="12">
+                            <text id="title" opacity="0.7" font-family="OpenSans, Open Sans">
+                                <tspan x="0" y="17">Master in</tspan>
+                                <tspan x="78.1562501" y="17" letter-spacing="0.7901235"> </tspan>
+                            </text>
+                            <text id="Human-Computer-Inter" font-family="OpenSans-Italic, Open Sans" font-style="italic">
+                                <tspan x="85" y="17">Human Computer Interaction Design</tspan>
+                            </text>
+                        </g>
+                        <text id="time" opacity="0.700000048" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" letter-spacing="1.8" fill="#FFFFFF">
+                            <tspan x="21" y="17">Sep 2016 - present</tspan>
+                        </text>
+                        <g id="bullet" transform="translate(0.000000, 12.000000)" fill="#000000" fill-opacity="0.87" opacity="0.800722948" stroke="url(#radialGradient-1)" stroke-width="2">
+                            <circle id="Oval-1" cx="2.5" cy="2.5" r="3.5"></circle>
+                        </g>
+                        <text id="Innovation-&amp;-Entrepr" font-family="OpenSans-Italic, Open Sans" font-size="16" font-style="italic" font-weight="normal" line-spacing="12" letter-spacing="0.8888889" fill="#FFFFFF">
+                            <tspan x="98" y="119">Innovation &amp; Entrepreneurship</tspan>
+                        </text>
+                        <text id="Minor-in" opacity="0.7" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" line-spacing="12" letter-spacing="0.8888889" fill="#FFFFFF">
+                            <tspan x="21" y="119">Minor in </tspan>
+                        </text>
+                    </g>
+                    <path d="M37.03125,24 L23.875,24 L23.875,1.15625 L37.03125,1.15625 L37.03125,5.125 L28.71875,5.125 L28.71875,10.140625 L36.453125,10.140625 L36.453125,14.109375 L28.71875,14.109375 L28.71875,20 L37.03125,20 L37.03125,24 Z M64.3411102,12.359375 C64.3411102,16.1198105 63.2708084,18.99999 61.1301727,21 C58.989537,23.00001 55.8984221,24 51.8567352,24 L45.3879852,24 L45.3879852,1.15625 L52.5598602,1.15625 C56.2890455,1.15625 59.1848499,2.14061516 61.2473602,4.109375 C63.3098705,6.07813484 64.3411102,8.82810734 64.3411102,12.359375 Z M59.3098602,12.484375 C59.3098602,7.57810047 57.1432152,5.125 52.8098602,5.125 L50.2317352,5.125 L50.2317352,20 L52.3098602,20 C56.9765502,20 59.3098602,17.4948167 59.3098602,12.484375 Z M91.2603455,1.15625 L91.2603455,15.9375 C91.2603455,17.6250084 90.8827451,19.1041603 90.127533,20.375 C89.3723208,21.6458397 88.2811859,22.6197883 86.8540955,23.296875 C85.427005,23.9739617 83.7395219,24.3125 81.7915955,24.3125 C78.8540808,24.3125 76.5728536,23.5599034 74.9478455,22.0546875 C73.3228373,20.5494716 72.5103455,18.4895964 72.5103455,15.875 L72.5103455,1.15625 L77.3384705,1.15625 L77.3384705,15.140625 C77.3384705,16.9010505 77.6926336,18.1927042 78.4009705,19.015625 C79.1093073,19.8385458 80.2811706,20.25 81.9165955,20.25 C83.4999367,20.25 84.6483627,19.8359416 85.361908,19.0078125 C86.0754532,18.1796834 86.4322205,16.8802172 86.4322205,15.109375 L86.4322205,1.15625 L91.2603455,1.15625 Z M110.148331,4.859375 C108.325405,4.859375 106.913961,5.54426398 105.913956,6.9140625 C104.913951,8.28386102 104.413956,10.1926961 104.413956,12.640625 C104.413956,17.7344005 106.325395,20.28125 110.148331,20.28125 C111.752505,20.28125 113.695194,19.8802123 115.976456,19.078125 L115.976456,23.140625 C114.101446,23.9218789 112.007717,24.3125 109.695206,24.3125 C106.372272,24.3125 103.830631,23.3046976 102.070206,21.2890625 C100.30978,19.2734274 99.4295807,16.3802272 99.4295807,12.609375 C99.4295807,10.2343631 99.861868,8.15365477 100.726456,6.3671875 C101.591043,4.58072023 102.833218,3.21094227 104.453018,2.2578125 C106.072818,1.30468273 107.971236,0.828125 110.148331,0.828125 C112.367092,0.828125 114.596236,1.36457797 116.835831,2.4375 L115.273331,6.375 C114.41916,5.96874797 113.559793,5.61458484 112.695206,5.3125 C111.830618,5.01041516 110.981668,4.859375 110.148331,4.859375 Z M138.411316,24 L136.755066,18.5625 L128.426941,18.5625 L126.770691,24 L121.551941,24 L129.614441,1.0625 L135.536316,1.0625 L143.630066,24 L138.411316,24 Z M135.598816,14.5 C134.067558,9.57289203 133.205588,6.78646156 133.012878,6.140625 C132.820169,5.49478844 132.68215,4.98437688 132.598816,4.609375 C132.255064,5.942715 131.270699,9.23955703 129.645691,14.5 L135.598816,14.5 Z M156.674301,24 L151.830551,24 L151.830551,5.1875 L145.627426,5.1875 L145.627426,1.15625 L162.877426,1.15625 L162.877426,5.1875 L156.674301,5.1875 L156.674301,24 Z M169.984161,24 L169.984161,1.15625 L174.827911,1.15625 L174.827911,24 L169.984161,24 Z M204.903397,12.546875 C204.903397,16.3281439 203.965906,19.2343648 202.090897,21.265625 C200.215887,23.2968852 197.528414,24.3125 194.028397,24.3125 C190.528379,24.3125 187.840906,23.2968852 185.965897,21.265625 C184.090887,19.2343648 183.153397,16.3177273 183.153397,12.515625 C183.153397,8.71352266 184.093491,5.80990586 185.973709,3.8046875 C187.853927,1.79946914 190.549212,0.796875 194.059647,0.796875 C197.570081,0.796875 200.25495,1.80728156 202.114334,3.828125 C203.973718,5.84896844 204.903397,8.75518938 204.903397,12.546875 Z M188.231522,12.546875 C188.231522,15.0989711 188.715892,17.0208269 189.684647,18.3125 C190.653401,19.6041731 192.101304,20.25 194.028397,20.25 C197.892999,20.25 199.825272,17.6823173 199.825272,12.546875 C199.825272,7.40101594 197.903416,4.828125 194.059647,4.828125 C192.132554,4.828125 190.679443,5.47655602 189.700272,6.7734375 C188.7211,8.07031898 188.231522,9.99477891 188.231522,12.546875 Z M233.494507,24 L227.338257,24 L217.400757,6.71875 L217.260132,6.71875 C217.458049,9.77084859 217.557007,11.9479102 217.557007,13.25 L217.557007,24 L213.228882,24 L213.228882,1.15625 L219.338257,1.15625 L229.260132,18.265625 L229.369507,18.265625 C229.213256,15.2968602 229.135132,13.1979228 229.135132,11.96875 L229.135132,1.15625 L233.494507,1.15625 L233.494507,24 Z" id="edu" fill="url(#linearGradient-3)" opacity="0.88"></path>
+                </g>
+                <g id="Rectangle-5" fill-rule="nonzero">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                    <use fill="#FFFFFF" xlink:href="#path-4"></use>
+                </g>
+                <text id="Hi!-Thank-you-for-st" font-family="OpenSans-Semibold, Open Sans" font-size="16" font-weight="500" letter-spacing="0.009846151">
+                    <tspan x="40" y="220" fill="#000000" fill-opacity="0.87">Hi! Thank you for stopping by</tspan>
+                    <tspan x="266.269913" y="220" fill="#BD10E0"> :)</tspan>
+                    <tspan x="40" y="242" fill="#000000" fill-opacity="0.87"></tspan>
+                    <tspan x="40" y="264" fill="#000000" fill-opacity="0.87">I am Xiqun! A passionate </tspan>
+                    <tspan x="40" y="286" fill="#000000" fill-opacity="0.87">designer owns a creative mind </tspan>
+                    <tspan x="40" y="308" fill="#000000" fill-opacity="0.87">and strong abilities to solve </tspan>
+                    <tspan x="40" y="330" fill="#000000" fill-opacity="0.87">problems by entering user </tspan>
+                    <tspan x="40" y="352" fill="#000000" fill-opacity="0.87">heart, I am looking for an </tspan>
+                    <tspan x="40" y="374" fill="#000000" fill-opacity="0.87">opportunity to work with cool </tspan>
+                    <tspan x="40" y="396" fill="#000000" fill-opacity="0.87">people and utilize my talents.</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="30px" viewBox="0 0 35 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Comment</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Xiqun-portfolio" transform="translate(-815.000000, -1150.000000)">
+            <g id="01-skills-set" transform="translate(261.000000, 989.000000)">
+                <g id="Group-12" transform="translate(0.000000, 117.000000)">
+                    <g id="3" transform="translate(439.333333, 0.000000)">
+                        <g id="Comment" transform="translate(102.000000, 28.000000)">
+                            <rect id="Rectangle-path" x="0" y="0" width="60" height="60"></rect>
+                            <rect id="Rectangle-path" x="0" y="0" width="60" height="60"></rect>
+                            <path d="M40,22.16 L20,22.16 C19.1715729,22.16 18.5,22.8315729 18.5,23.66 L18.5,33.16 C18.5,33.9884271 19.1715729,34.66 20,34.66 L26,34.66 L29.29,38 C29.4777666,38.1893127 29.7333625,38.2957983 30,38.2957983 C30.2666375,38.2957983 30.5222334,38.1893127 30.71,38 L34,34.66 L40,34.66 C40.8284271,34.66 41.5,33.9884271 41.5,33.16 L41.5,23.66 C41.5,22.8315729 40.8284271,22.16 40,22.16 Z" id="Shape" fill="#FFC824" fill-rule="nonzero"></path>
+                            <path d="M30,29.04 L30,27.54" id="Shape" stroke="#6B400D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M23.75,29.04 L23.75,27.54" id="Shape" stroke="#6B400D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M36.25,29.04 L36.25,27.54" id="Shape" stroke="#6B400D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M23.13,17.66 L22.63,17.66" id="Shape" stroke="#6B400D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M18.5,17.66 L17,17.66 C15.3431458,17.66 14,19.0031458 14,20.66 L14,36.16 C14,37.8168542 15.3431458,39.16 17,39.16 L24,39.16 L28.59,43.75 C29.3700749,44.5254472 30.6299251,44.5254472 31.41,43.75 L36,39.16 L43,39.16 C44.6568542,39.16 46,37.8168542 46,36.16 L46,20.66 C46,19.0031458 44.6568542,17.66 43,17.66 L28,17.66" id="Shape" stroke="#6B400D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="7873px" viewBox="0 0 1440 7873" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>poop bag</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="974" height="601"></rect>
+        <filter x="-8.9%" y="-12.5%" width="117.9%" height="129.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feMorphology radius="6" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="12" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="21" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-4" x="204" y="567" width="477" height="408"></rect>
+        <filter x="-18.2%" y="-18.4%" width="136.5%" height="142.6%" filterUnits="objectBoundingBox" id="filter-5">
+            <feMorphology radius="6" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="12" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="21" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-6" x="760" y="567" width="477" height="408"></rect>
+        <filter x="-18.2%" y="-18.4%" width="136.5%" height="142.6%" filterUnits="objectBoundingBox" id="filter-7">
+            <feMorphology radius="6" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="12" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="21" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-8" points="0 159 921 159 988 202 921 245 0 245"></polygon>
+        <filter x="-7.6%" y="-73.3%" width="116.2%" height="274.4%" filterUnits="objectBoundingBox" id="filter-9">
+            <feMorphology radius="6" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="12" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="17" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-10" x="0" y="0" width="684" height="138" rx="6"></rect>
+        <filter x="-11.0%" y="-45.7%" width="121.9%" height="208.7%" filterUnits="objectBoundingBox" id="filter-11">
+            <feMorphology radius="6" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="12" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="17" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-12" x="0" y="0" width="684" height="138" rx="6"></rect>
+        <filter x="-11.0%" y="-45.7%" width="121.9%" height="208.7%" filterUnits="objectBoundingBox" id="filter-13">
+            <feMorphology radius="6" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="12" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="17" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-14" points="-28 3026 1467 3026 1467 3052 777 3052 670 3398 -28 3398"></polygon>
+        <filter x="-5.0%" y="-16.9%" width="110.0%" height="140.3%" filterUnits="objectBoundingBox" id="filter-15">
+            <feMorphology radius="6" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="12" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="17" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-16" points="-179 3480 742 3480 809 3514 742 3548 -49 3548"></polygon>
+        <filter x="-11.3%" y="-92.6%" width="120.4%" height="320.6%" filterUnits="objectBoundingBox" id="filter-17">
+            <feMorphology radius="6" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="12" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="17" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-18" points="836 3480 1311.57664 3480 1382 3514 1311.57664 3548 836 3548"></polygon>
+        <filter x="-13.7%" y="-92.6%" width="130.3%" height="320.6%" filterUnits="objectBoundingBox" id="filter-19">
+            <feMorphology radius="6" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="12" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="17" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="100%" y1="27.7490592%" x2="1.71619366%" y2="27.7490592%" id="linearGradient-20">
+            <stop stop-color="#FEA588" offset="0%"></stop>
+            <stop stop-color="#ABE1B3" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-21" points="-9 4130 1042 4130 1109 4167 1042 4204 -9 4204"></polygon>
+        <filter x="-6.7%" y="-85.1%" width="114.6%" height="302.7%" filterUnits="objectBoundingBox" id="filter-22">
+            <feMorphology radius="6" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="12" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="17" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-23" points="181 4410 1323.08885 4410 1442 4481 1323.08885 4552 181 4552"></polygon>
+        <filter x="-5.9%" y="-44.4%" width="112.8%" height="205.6%" filterUnits="objectBoundingBox" id="filter-24">
+            <feMorphology radius="6" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="12" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="17" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-25" x="307" y="5176" width="953" height="309" rx="13"></rect>
+        <filter x="-7.9%" y="-20.4%" width="115.7%" height="148.5%" filterUnits="objectBoundingBox" id="filter-26">
+            <feMorphology radius="6" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="12" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="17" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="poop-bag" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="1440" height="7873"></rect>
+        <g id="00-first-screen" transform="translate(-2008.000000, -3928.000000)">
+            <g id="bg" transform="translate(2234.319496, 2406.235271) rotate(-22.000000) translate(-2234.319496, -2406.235271) translate(607.819496, 469.235271)"></g>
+        </g>
+        <g id="intro" transform="translate(407.000000, 119.000000)">
+            <text id="We-design-the-“poop" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" letter-spacing="0.002933333" fill="#000000" fill-opacity="0.87">
+                <tspan x="0" y="106">We design the “poop bag”. It is a sustainable green design which makes the discarded </tspan>
+                <tspan x="0" y="128">doggy poop as fertilizers to nourish the newborn plant. Picking </tspan>
+                <tspan x="470.265858" y="128" font-family="PingFangSC-Regular, PingFang SC">up</tspan>
+                <tspan x="488.607725" y="128"> poop becomes a </tspan>
+                <tspan x="0" y="150">more meaningful activity since we design manure treatment system.</tspan>
+            </text>
+            <g id="Group" transform="translate(230.000000, 0.000000)">
+                <g id="Group-6" transform="translate(0.000000, 7.000000)" fill="#000000" fill-opacity="0.87" font-family="OpenSans, Open Sans" font-size="32" font-weight="normal">
+                    <text id="Introduction">
+                        <tspan x="0" y="34">Introduction</tspan>
+                    </text>
+                </g>
+                <path d="M3.5,1.5 L99.5,1.5" id="Line-14" stroke-opacity="0.87" stroke="#000000" stroke-width="3" stroke-linecap="round" fill-rule="nonzero"></path>
+            </g>
+        </g>
+        <g id="Group-75" transform="translate(555.000000, 5728.000000)">
+            <text id="How-to-use-Prototype" font-family="OpenSans, Open Sans" font-size="32" font-weight="normal" fill="#000000" fill-opacity="0.87">
+                <tspan x="0" y="41">How</tspan>
+                <tspan x="67.828125" y="41" font-family="PingFangSC-Regular, PingFang SC"> to use </tspan>
+                <tspan x="181.748125" y="41">Prototype</tspan>
+            </text>
+            <path d="M3.5,1.5 L99.5,1.5" id="Line-14" stroke-opacity="0.87" stroke="#000000" stroke-width="3" stroke-linecap="round" fill-rule="nonzero"></path>
+        </g>
+        <g id="problem-definition" transform="translate(232.000000, 1207.000000)">
+            <text id="Problem-Definition" font-family="OpenSans, Open Sans" font-size="32" font-weight="normal" fill="#000000" fill-opacity="0.87">
+                <tspan x="405" y="41">Problem Definition</tspan>
+            </text>
+            <path d="M408.5,1.5 L504.5,1.5" id="Line-14" stroke-opacity="0.87" stroke="#000000" stroke-width="3" stroke-linecap="round" fill-rule="nonzero"></path>
+            <g id="Group-73" transform="translate(0.000000, 86.000000)">
+                <text id="In-the-survey,-main" font-family="OpenSans-Bold, Open Sans" font-size="18" font-weight="bold" line-spacing="28" fill="#000000" fill-opacity="0.87">
+                    <tspan x="121.604004" y="19">In the survey, main reasons lead to pet dog feces being recycled inadequately are:</tspan>
+                </text>
+                <g id="Group-10" transform="translate(0.000000, 54.000000)">
+                    <g id="Why-Everyone-Love-This">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Mask">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-1"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                        <g id="Group-103" mask="url(#mask-2)">
+                            <g transform="translate(82.000000, 40.000000)">
+                                <g id="Group-100" transform="translate(2.000000, 0.000000)">
+                                    <path d="M0.5,90.5 L151.5,90.5 M300.5,90.5 L451.5,90.5 M300.5,90.5 L451.5,90.5 M569.5,90.5 L720.5,90.5 M569.5,90.5 L720.5,90.5" id="Line" stroke="#09EC73" stroke-width="2" stroke-linecap="round" fill-rule="nonzero"></path>
+                                    <text id="2." font-family="Avenir-Medium, Avenir" font-size="60" font-weight="400" fill="#000000" fill-opacity="0.87">
+                                        <tspan x="298" y="60.9887006">2.</tspan>
+                                    </text>
+                                    <text id="Existing-fecal-colle" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.87">
+                                        <tspan x="298" y="123.463277">Existing fecal collection </tspan>
+                                        <tspan x="298" y="145.463277">products are often not easy </tspan>
+                                        <tspan x="298" y="167.463277">to carry and use.</tspan>
+                                    </text>
+                                </g>
+                                <g id="Group-101" transform="translate(570.000000, 0.000000)" fill-opacity="0.87">
+                                    <text id="3." font-family="Avenir-Medium, Avenir" font-size="60" font-weight="400" fill="#000000">
+                                        <tspan x="0" y="60.9887006">3.</tspan>
+                                    </text>
+                                    <text id="Utilization-rate-of" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" fill="#000000">
+                                        <tspan x="0" y="123.463277">Utilization rate of public fecal </tspan>
+                                        <tspan x="0" y="145.463277">collection devices often relies on </tspan>
+                                        <tspan x="0" y="167.463277">the pet owner’s environmental </tspan>
+                                        <tspan x="0" y="189.463277">awareness passively.</tspan>
+                                    </text>
+                                </g>
+                                <g id="Group-102" fill-opacity="0.87">
+                                    <text id="1." font-family="Avenir-Medium, Avenir" font-size="60" font-weight="400" fill="#000000">
+                                        <tspan x="0" y="60.9887006">1.</tspan>
+                                    </text>
+                                    <text id="Lack-of-understandin" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" fill="#000000">
+                                        <tspan x="0" y="123.463277">Lack of understanding of the </tspan>
+                                        <tspan x="0" y="145.463277">association between feces </tspan>
+                                        <tspan x="0" y="167.463277">collection and environmental </tspan>
+                                        <tspan x="0" y="189.463277">protection.</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <text id="Research" font-family="OpenSans, Open Sans" font-size="32" font-weight="normal" fill="#000000" fill-opacity="0.87">
+            <tspan x="638" y="450">Research</tspan>
+        </text>
+        <path d="M640.5,417.5 L736.5,417.5" id="Line-14" stroke-opacity="0.87" stroke="#000000" stroke-width="3" stroke-linecap="round" fill-rule="nonzero"></path>
+        <text id="The-data-displays-th" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.87">
+            <tspan x="429" y="518">The data displays that there are more than 100 million pets currently in China, </tspan>
+            <tspan x="429" y="540">and the number is still growing rapidly.</tspan>
+        </text>
+        <g id="Rectangle-18" fill-rule="nonzero">
+            <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+            <use fill="#FFFFFF" xlink:href="#path-4"></use>
+        </g>
+        <g id="Rectangle-18" fill-rule="nonzero">
+            <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
+            <use fill="#FFFFFF" xlink:href="#path-6"></use>
+        </g>
+        <text id="Dog’s-poop-will-caus" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.87">
+            <tspan x="289" y="859">Dog’s poop will cause serious damage to the</tspan>
+            <tspan x="289" y="878">environment is the high temperature , not only</tspan>
+            <tspan x="289" y="897">bringing but also to people’s health since many</tspan>
+            <tspan x="289" y="916">parasites in poop breeding bacteria.</tspan>
+        </text>
+        <text id="Danger-of-dropping-p" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold" fill="#000000" fill-opacity="0.87">
+            <tspan x="305" y="648">Danger of dropping pet poop carelessly</tspan>
+        </text>
+        <text id="Lack-of-the-environm" font-family="OpenSans-Bold, Open Sans" font-size="16" font-weight="bold" fill="#000000" fill-opacity="0.87">
+            <tspan x="847" y="648">Lack of the environmental awareness</tspan>
+        </text>
+        <text id="According-to-our-sur" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.87">
+            <tspan x="841" y="858">According to our survey, many pet owners do</tspan>
+            <tspan x="841" y="877">not clean up pet’s poop since no convinient</tspan>
+            <tspan x="841" y="896">public services of facilities. They forget to carry</tspan>
+            <tspan x="841" y="915">something to pick up poop. Also, they may think</tspan>
+            <tspan x="841" y="934">that poop in lawn need not to be picked.</tspan>
+        </text>
+        <path d="M307.5,619.5 L458.5,619.5" id="Line-15" stroke="#09EC73" stroke-width="2" stroke-linecap="round" fill-rule="nonzero"></path>
+        <path d="M848.5,616.25 L999.5,616.25" id="Line-15" stroke="#09EC73" stroke-width="2" stroke-linecap="round" fill-rule="nonzero"></path>
+        <g id="solution" transform="translate(-4.000000, 2179.000000)">
+            <g id="Group-54" transform="translate(664.000000, 0.000000)">
+                <text id="Solution" font-family="OpenSans, Open Sans" font-size="32" font-weight="normal" fill="#000000" fill-opacity="0.87">
+                    <tspan x="0" y="41">Solution</tspan>
+                </text>
+                <path d="M3.5,1.5 L99.5,1.5" id="Line-14" stroke-opacity="0.87" stroke="#000000" stroke-width="3" stroke-linecap="round" fill-rule="nonzero"></path>
+            </g>
+            <text id="We-came-up-with-two" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.87">
+                <tspan x="382" y="109">We came up with two ways to make full use of pet feces:</tspan>
+                <tspan x="801.054688" y="109" font-family="OpenSans-Bold, Open Sans" font-weight="bold"> Power generation and Fertilizer</tspan>
+            </text>
+            <g id="Group-26" transform="translate(0.000000, 140.000000)">
+                <g id="Rectangle-2" fill-rule="nonzero">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-9)" xlink:href="#path-8"></use>
+                    <use fill="#FEA588" xlink:href="#path-8"></use>
+                </g>
+                <text id="Analyse" font-family="OpenSans-Bold, Open Sans" font-size="32" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="205" y="211">Analyse</tspan>
+                </text>
+                <text id="Summary" font-family="OpenSans-Bold, Open Sans" font-size="32" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="766" y="212">Summary</tspan>
+                </text>
+                <g id="Group-25" transform="translate(207.000000, 0.000000)">
+                    <g id="Rectangle-20" fill-rule="nonzero">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-11)" xlink:href="#path-10"></use>
+                        <use fill="#FFFFFF" xlink:href="#path-10"></use>
+                    </g>
+                    <g id="Group-14" transform="translate(32.000000, 40.000000)"></g>
+                    <path d="M366.5,27.5 L366.5,113.5" id="Line-2" stroke="#979797" stroke-linecap="round" fill-rule="nonzero"></path>
+                    <path d="M190.5,27.5 L190.5,113.5" id="Line-2" stroke="#979797" stroke-linecap="round" fill-rule="nonzero"></path>
+                    <g id="Group-22" transform="translate(269.000000, 24.000000)" fill-rule="nonzero">
+                        <circle id="Oval-7" fill="#FD7B50" cx="12" cy="12" r="12"></circle>
+                        <polyline id="Path-41" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="7 12.5 10 16 17 9"></polyline>
+                    </g>
+                    <text id="High-efficiency-Sust" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.87">
+                        <tspan x="230.976562" y="69">High efficiency </tspan>
+                        <tspan x="235.098633" y="88">Sustainability </tspan>
+                        <tspan x="239.890625" y="107">Cleanliness.</tspan>
+                    </text>
+                    <g id="Group-23" transform="translate(83.000000, 24.000000)" fill-rule="nonzero">
+                        <circle id="Oval-7" fill="#FD7B50" cx="12" cy="12" r="12"></circle>
+                        <path d="M13.229588,10.5714286 L15,10.5714286 L9.91604228,18 L10.770412,12.4285714 L9,12.4285714 L14.0839577,5 L13.229588,10.5714286 Z" id="Combined-Shape" stroke="#FFFFFF" stroke-width="0.63" fill="#FFFFFF"></path>
+                    </g>
+                    <g id="Group-15" transform="translate(406.000000, 24.000000)">
+                        <g id="Group-17" transform="translate(106.000000, 0.000000)" fill-rule="nonzero">
+                            <circle id="Oval-7" fill="#FD7B50" cx="12" cy="12" r="12"></circle>
+                            <g id="Group-16" transform="translate(7.500000, 8.000000)" stroke="#FFFFFF" stroke-linecap="round" stroke-width="2">
+                                <path d="M8.5,0.5 L0.5,8.5" id="Line-3"></path>
+                                <path d="M0.5,0.5 L8.5,8.5" id="Line-3"></path>
+                            </g>
+                        </g>
+                        <text id="The-cycle-time-of-ge" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.87">
+                            <tspan x="29.3505859" y="45">The cycle time of generating </tspan>
+                            <tspan x="1.80175781" y="64">electricity by feces too long to reflect </tspan>
+                            <tspan x="18.1157227" y="83">the effects on the environment.</tspan>
+                        </text>
+                    </g>
+                    <text id="Power-Generation" font-family="OpenSans-Bold, Open Sans" font-size="20" font-weight="bold" fill="#000000" fill-opacity="0.87">
+                        <tspan x="62.0205078" y="77">Power </tspan>
+                        <tspan x="37.1328125" y="104">Generation</tspan>
+                    </text>
+                </g>
+                <g id="Group-24" transform="translate(207.000000, 270.000000)">
+                    <g id="Rectangle-20" fill-rule="nonzero">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-13)" xlink:href="#path-12"></use>
+                        <use fill="#FFFFFF" xlink:href="#path-12"></use>
+                    </g>
+                    <path d="M366.5,27.5 L366.5,113.5" id="Line-2" stroke="#979797" stroke-linecap="round" fill-rule="nonzero"></path>
+                    <path d="M190.5,27.5 L190.5,113.5" id="Line-2" stroke="#979797" stroke-linecap="round" fill-rule="nonzero"></path>
+                    <g id="Group-21" transform="translate(52.000000, 23.000000)">
+                        <g id="Group-18" transform="translate(31.000000, 0.000000)">
+                            <circle id="Oval-7" fill="#FD7B50" fill-rule="nonzero" cx="12" cy="12" r="12"></circle>
+                            <g id="Leaves-2" transform="translate(5.000000, 7.000000)" fill="#FFFFFF">
+                                <g id="Group-19">
+                                    <path d="M5.42982222,4.32264706 C5.18933333,3.775 4.61751111,3.34529412 3.73115556,3.04617647 C3.28906667,2.89676471 2.8336,2.82058824 2.37626667,2.82058824 C1.03911111,2.82058824 0.127866667,3.45558824 0.0899111111,3.48323529 C0.0444888889,3.51558824 0.0196,3.56647059 0.0239555556,3.62 C0.0273777778,3.67382353 0.0597333333,3.72147059 0.109511111,3.74676471 C0.119155556,3.75176471 1.09511111,4.26147059 1.83182222,4.91470588 C1.88004444,4.95588235 3.03022222,5.96764706 4.21462222,5.96764706 C4.66542222,5.96764706 5.0624,5.82058824 5.39466667,5.53235294 C5.41053333,5.51764706 5.42391111,5.50294118 5.43262222,5.48235294 C5.44382222,5.46176471 5.69893333,4.93529412 5.42982222,4.32264706" id="Fill-101"></path>
+                                    <path d="M6.39457778,6.57352941 C6.33888889,6.57352941 6.28382222,6.54411765 6.25208889,6.49705882 C5.48955556,5.31764706 2.51471111,4.15117647 2.48453333,4.14 C2.3996,4.10647059 2.35915556,4.015 2.39368889,3.93411765 C2.42884444,3.85441176 2.52653333,3.81558824 2.61115556,3.84852941 C2.73746667,3.89794118 5.71728889,5.06470588 6.53644444,6.33235294 C6.58466667,6.40588235 6.55915556,6.50294118 6.48137778,6.55 C6.454,6.56470588 6.42413333,6.57352941 6.39457778,6.57352941" id="Fill-102"></path>
+                                    <path d="M13.6422222,0.775294118 C13.5992889,0.750588235 12.5813333,0.173235294 11.1244,0.173235294 C10.3702667,0.173235294 9.63511111,0.329705882 8.93853333,0.638235294 C7.84808889,1.12235294 7.17671111,1.73294118 6.94213333,2.45382353 C6.68111111,3.25588235 7.06844444,3.88735294 7.08493333,3.91411765 C7.09582222,3.93117647 7.11044444,3.94676471 7.12755556,3.95882353 C7.52111111,4.24058824 7.96413333,4.38352941 8.44355556,4.38352941 C10.0395556,4.38352941 11.5101778,2.81794118 11.5720889,2.75176471 C12.4397778,1.82176471 13.6369333,1.04705882 13.6490667,1.03970588 C13.6957333,1.00911765 13.7231111,0.958823529 13.7218667,0.905588235 C13.7203111,0.852058824 13.6904444,0.802647059 13.6422222,0.775294118" id="Fill-103"></path>
+                                    <path d="M6.39426667,9.82941176 C6.30248889,9.82941176 6.22813333,9.75882353 6.22813333,9.67058824 L6.22813333,5.83235294 C6.22813333,2.89558824 10.2996444,1.70058824 10.4729333,1.65058824 C10.5616,1.62558824 10.654,1.67294118 10.6807556,1.75588235 C10.7072,1.83911765 10.6571111,1.92647059 10.5693778,1.95205882 C10.5292444,1.96323529 6.56071111,3.13 6.56071111,5.83235294 L6.56071111,9.67058824 C6.56071111,9.75882353 6.48635556,9.82941176 6.39426667,9.82941176" id="Fill-104"></path>
+                                </g>
+                            </g>
+                        </g>
+                        <text id="Fertilizer" font-family="OpenSans-Bold, Open Sans" font-size="20" font-weight="bold" fill="#000000" fill-opacity="0.87">
+                            <tspan x="0" y="61">Fertilizer</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-20" transform="translate(514.000000, 23.000000)" fill-rule="nonzero">
+                        <circle id="Oval-7" fill="#FD7B50" cx="12" cy="12" r="12"></circle>
+                        <polyline id="Path-41" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="7 12.5 10 16 17 9"></polyline>
+                    </g>
+                    <g id="Group-17" transform="translate(269.000000, 23.000000)" fill-rule="nonzero">
+                        <circle id="Oval-7" fill="#FD7B50" cx="12" cy="12" r="12"></circle>
+                        <g id="Group-16" transform="translate(7.500000, 8.000000)" stroke="#FFFFFF" stroke-linecap="round" stroke-width="2">
+                            <path d="M8.5,0.5 L0.5,8.5" id="Line-3"></path>
+                            <path d="M0.5,0.5 L8.5,8.5" id="Line-3"></path>
+                        </g>
+                    </g>
+                    <text id="Most-plants-require" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.87">
+                        <tspan x="214.519043" y="68">Most plants require </tspan>
+                        <tspan x="216.716797" y="87">limited amounts of </tspan>
+                        <tspan x="249.638672" y="106">fertilizer.</tspan>
+                    </text>
+                    <text id="Plant-growth-can-mor" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.87">
+                        <tspan x="418.82373" y="68">Plant growth can more intuitively </tspan>
+                        <tspan x="419.828613" y="87">reflect the effect of reusing feces </tspan>
+                        <tspan x="441.17041" y="106">Fertilizer on residents’ life.</tspan>
+                    </text>
+                </g>
+                <text id="By-reusing-feces-as" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.87">
+                    <tspan x="1022" y="141">By reusing feces as chemical fertilizer </tspan>
+                    <tspan x="1022" y="163">in public places, pet owners have a </tspan>
+                    <tspan x="1022" y="185">positive and visible effect on the park </tspan>
+                    <tspan x="1022" y="207">landscape, thereby cultivating their </tspan>
+                    <tspan x="1022" y="229">habit of collecting feces by using the </tspan>
+                    <tspan x="1022" y="251">collector. And then the excess </tspan>
+                    <tspan x="1022" y="273">collected feces would be used to </tspan>
+                    <tspan x="1022" y="295">generate electricity.</tspan>
+                </text>
+                <g id="Leaves-2" transform="translate(1230.000000, 283.000000)">
+                    <path d="M29.6371698,23.8267488 C28.3245283,20.6937027 25.2033962,18.2353889 20.3654717,16.5241602 C17.9524528,15.6693871 15.4664151,15.2335875 12.9701887,15.2335875 C5.67169811,15.2335875 0.697924528,18.8663729 0.490754717,19.0245396 C0.242830189,19.2096283 0.106981132,19.5007222 0.130754717,19.8069598 C0.149433962,20.11488 0.326037736,20.3874651 0.597735849,20.5321708 C0.650377358,20.5607754 5.97735849,23.476763 9.99849057,27.2138712 C10.2616981,27.4494385 16.5396226,33.2376655 23.0043396,33.2376655 C25.4649057,33.2376655 27.6316981,32.3963534 29.445283,30.7473818 C29.5318868,30.6632506 29.6049057,30.5791194 29.6524528,30.4613357 C29.7135849,30.343552 31.1060377,27.3316548 29.6371698,23.8267488" id="Fill-101" fill="#7DBD5C"></path>
+                    <path d="M34.9030189,36.7038712 C34.5990566,36.7038712 34.2984906,36.5356087 34.125283,36.2663889 C29.9632075,29.5190662 13.7258491,22.845779 13.5611321,22.7818392 C13.0975472,22.5900201 12.8767925,22.066724 13.065283,21.6040024 C13.2571698,21.1480112 13.7903774,20.9259048 14.2522642,21.1143587 C14.9416981,21.3970396 31.2062264,28.0720095 35.6773585,35.3241194 C35.940566,35.7447754 35.8013208,36.3000414 35.3767925,36.5692612 C35.2273585,36.6533924 35.0643396,36.7038712 34.9030189,36.7038712" id="Fill-102" fill="#1F914D"></path>
+                    <path d="M74.4622642,3.53261939 C74.2279245,3.39127896 68.6716981,0.0882878251 60.719434,0.0882878251 C56.6032075,0.0882878251 52.590566,0.983443853 48.7884906,2.74851655 C42.8366038,5.51811584 39.1720755,9.0112435 37.8916981,13.1353552 C36.4669811,17.7238712 38.5811321,21.3364651 38.6711321,21.4895839 C38.730566,21.5871761 38.8103774,21.6763552 38.9037736,21.7453428 C41.0518868,23.3572967 43.47,24.175052 46.0867925,24.175052 C54.7981132,24.175052 62.8250943,15.2184439 63.1630189,14.8398534 C67.8990566,9.51939598 74.4333962,5.08736407 74.4996226,5.04529846 C74.7543396,4.87030556 74.9037736,4.58257683 74.8969811,4.27802187 C74.8884906,3.97178428 74.7254717,3.68910343 74.4622642,3.53261939" id="Fill-103" fill="#7DBD5C"></path>
+                    <path d="M34.9013208,55.3305201 C34.4003774,55.3305201 33.9945283,54.9266903 33.9945283,54.4219031 L33.9945283,32.4636584 C33.9945283,15.6626566 56.2177358,8.82615485 57.1635849,8.54010875 C57.6475472,8.3970857 58.1518868,8.66798818 58.2979245,9.14248818 C58.4422642,9.6186708 58.1688679,10.1184102 57.69,10.2647985 C57.4709434,10.3287382 35.8098113,17.003708 35.8098113,32.4636584 L35.8098113,54.4219031 C35.8098113,54.9266903 35.4039623,55.3305201 34.9013208,55.3305201" id="Fill-104" fill="#1F914D"></path>
+                    <path d="M70.9760377,64.9214775 C68.6462264,61.4889243 63.3837736,57.0131442 52.0726415,58.746247 C52.0726415,58.746247 47.4130189,45.4198641 31.4745283,47.859669 C20.2109434,49.5927719 19.7660377,59.7726478 19.7660377,59.7726478 C19.7660377,59.7726478 11.0071698,60.4120449 7.71113208,64.9214775 L70.9760377,64.9214775" id="Fill-105" fill="#8D4948"></path>
+                </g>
+                <g id="farmland" transform="translate(1025.000000, 1.000000)">
+                    <path d="M71.3634392,88.0954286 C71.0101773,88.0954286 70.6820289,87.8594286 70.5665072,87.5054286 C70.4241979,87.0671429 70.6652866,86.5782857 71.1056082,86.4434286 C95.663167,78.4194286 113.465221,78.2171429 113.642689,78.2171429 L113.647711,78.2171429 C114.106449,78.2171429 114.481476,78.588 114.484825,79.06 C114.488173,79.5151429 114.114821,79.9028571 113.652734,79.9028571 C113.478614,79.9028571 95.9126268,80.1051429 71.6212701,88.0448571 C71.5358845,88.0785714 71.4488247,88.0954286 71.3634392,88.0954286" id="Fill-149" fill="#7DBD5C"></path>
+                    <path d="M95.3969649,101.749714 C95.0704907,101.749714 94.7590845,101.564286 94.6251464,101.244 C94.4460041,100.805714 94.6469113,100.316857 95.0738392,100.131429 C104.349056,96.2205714 113.304495,96.5745714 113.684544,96.5914286 C114.146631,96.6082857 114.503241,96.996 114.483151,97.468 C114.46306,97.9231429 114.091381,98.2771429 113.647711,98.2771429 C113.625946,98.2771429 113.788346,98.2602857 112.936165,98.2602857 C110.697724,98.2602857 103.222301,98.5131429 95.7217649,101.682286 C95.6146144,101.732857 95.5057897,101.749714 95.3969649,101.749714" id="Fill-150" fill="#7DBD5C"></path>
+                    <path d="M115.047365,117.292 C114.846458,117.292 114.642202,117.207714 114.483151,117.056 C64.2881567,70.9685714 1.58836289,70.446 0.960527835,70.446 C0.498441237,70.446 0.123414433,70.0582857 0.123414433,69.6031429 C0.123414433,69.1311429 0.498441237,68.7602857 0.960527835,68.7602857 C1.59505979,68.7602857 64.9427794,69.2828571 115.611579,115.825429 C115.953122,116.128857 115.976561,116.668286 115.665155,117.005429 C115.499406,117.190857 115.273386,117.292 115.047365,117.292" id="Fill-151" fill="#1F914D"></path>
+                    <path d="M81.0973938,117.814571 C80.9534103,117.814571 80.8077526,117.780857 80.6754887,117.696571 C38.8131216,93.0682857 1.32885773,92.5457143 0.955505155,92.5457143 C0.493418557,92.5288571 0.120065979,92.158 0.123414433,91.686 C0.126762887,91.2308571 0.501789691,90.86 0.960527835,90.86 C0.962202062,90.86 0.963876289,90.86 0.965550515,90.86 C1.34392577,90.86 39.2500948,91.3825714 81.519299,116.246857 C81.9194392,116.482857 82.0550515,117.005429 81.8206598,117.393143 C81.6649567,117.662857 81.3853608,117.814571 81.0973938,117.814571" id="Fill-152" fill="#1F914D"></path>
+                    <path d="M72.3210969,8.64771429 C71.8590103,8.64771429 71.4839835,8.27685714 71.4839835,7.80485714 L71.4839835,1.33171429 C71.4839835,0.876571429 71.8590103,0.488857143 72.3210969,0.488857143 C72.7848577,0.488857143 73.1582103,0.876571429 73.1582103,1.33171429 L73.1582103,7.80485714 C73.1582103,8.27685714 72.7848577,8.64771429 72.3210969,8.64771429" id="Fill-153" fill="#F4BD51"></path>
+                    <path d="M54.0552825,27.0388571 L47.6262515,27.0388571 C47.1641649,27.0388571 46.7891381,26.668 46.7891381,26.196 C46.7891381,25.7408571 47.1641649,25.3531429 47.6262515,25.3531429 L54.0552825,25.3531429 C54.5173691,25.3531429 54.8923959,25.7408571 54.8923959,26.196 C54.8923959,26.668 54.5173691,27.0388571 54.0552825,27.0388571" id="Fill-154" fill="#F4BD51"></path>
+                    <path d="M72.3210969,51.9031429 C71.8590103,51.9031429 71.4839835,51.5322857 71.4839835,51.0602857 L71.4839835,44.5871429 C71.4839835,44.132 71.8590103,43.7442857 72.3210969,43.7442857 C72.7848577,43.7442857 73.1582103,44.132 73.1582103,44.5871429 L73.1582103,51.0602857 C73.1582103,51.5322857 72.7848577,51.9031429 72.3210969,51.9031429" id="Fill-155" fill="#F4BD51"></path>
+                    <path d="M97.0159423,27.0388571 L90.5902598,27.0388571 C90.1281732,27.0388571 89.7531464,26.668 89.7531464,26.196 C89.7531464,25.7408571 90.1281732,25.3531429 90.5902598,25.3531429 L97.0159423,25.3531429 C97.4797031,25.3531429 97.8530557,25.7408571 97.8530557,26.196 C97.8530557,26.668 97.4797031,27.0388571 97.0159423,27.0388571" id="Fill-156" fill="#F4BD51"></path>
+                    <path d="M62.481666,11.5471429 C62.2070928,11.5471429 61.935868,11.4122857 61.7768165,11.1594286 L58.3145155,5.69771429 C58.0650557,5.31 58.1789031,4.78742857 58.5673237,4.53457143 C58.9574186,4.28171429 59.4747546,4.39971429 59.7242144,4.78742857 L63.1865155,10.2491429 C63.4359753,10.6368571 63.3221278,11.1594286 62.9337072,11.4122857 C62.7930722,11.4965714 62.6373691,11.5471429 62.481666,11.5471429" id="Fill-157" fill="#F4BD51"></path>
+                    <path d="M51.5171546,40.4402857 C51.2425814,40.4402857 50.9713567,40.3054286 50.8123052,40.0525714 C50.5628454,39.648 50.6766928,39.1254286 51.0667876,38.8894286 L56.4812371,35.4 C56.871332,35.1471429 57.388668,35.2482857 57.6381278,35.6528571 C57.8875876,36.0405714 57.7737402,36.5631429 57.3836454,36.816 L51.9691959,40.3054286 C51.8285608,40.3897143 51.6728577,40.4402857 51.5171546,40.4402857" id="Fill-158" fill="#F4BD51"></path>
+                    <path d="M85.6228289,47.9922857 C85.3482557,47.9922857 85.0770309,47.8574286 84.9196536,47.6045714 L81.4573526,42.1428571 C81.209567,41.7551429 81.3234144,41.2325714 81.7135093,40.9797143 C82.1002557,40.7268571 82.619266,40.8448571 82.8687258,41.2325714 L86.3293526,46.6942857 C86.5788124,47.082 86.4632907,47.6045714 86.0748701,47.8574286 C85.9342351,47.9417143 85.778532,47.9922857 85.6228289,47.9922857" id="Fill-159" fill="#F4BD51"></path>
+                    <path d="M87.7122639,17.1268571 C87.4376907,17.1268571 87.166466,16.992 87.0090887,16.7391429 C86.7579546,16.3514286 86.8734763,15.8288571 87.2618969,15.576 L92.6763464,12.1034286 C93.064767,11.8505714 93.5837773,11.9517143 93.8332371,12.3562857 C94.0826969,12.744 93.9688495,13.2665714 93.5787546,13.5194286 L88.1643052,17.0088571 C88.0236701,17.0931429 87.867967,17.1268571 87.7122639,17.1268571" id="Fill-160" fill="#F4BD51"></path>
+                    <path d="M56.3439505,18.1214286 C56.2066639,18.1214286 56.0660289,18.0877143 55.9387876,18.0202857 L50.3184082,14.8848571 C49.9115711,14.6488571 49.7659134,14.1431429 49.9902598,13.7385714 C50.2162804,13.334 50.7285938,13.1822857 51.128734,13.4014286 L56.7491134,16.5368571 C57.1559505,16.7728571 57.299934,17.2785714 57.0772619,17.6831429 C56.923233,17.9697143 56.6386144,18.1214286 56.3439505,18.1214286" id="Fill-161" fill="#F4BD51"></path>
+                    <path d="M60.3503753,48.7845714 C60.2130887,48.7845714 60.0724536,48.7508571 59.9452124,48.6834286 C59.5383753,48.4642857 59.3927175,47.9417143 59.6170639,47.5371429 L62.7344742,41.8731429 C62.9588206,41.4685714 63.471134,41.3337143 63.8712742,41.5528571 C64.2764371,41.772 64.4220948,42.2945714 64.1994227,42.6991429 L61.0820124,48.3462857 C60.9279835,48.6328571 60.6450392,48.7845714 60.3503753,48.7845714" id="Fill-162" fill="#F4BD51"></path>
+                    <path d="M93.9202969,39.0917143 C93.7813361,39.0917143 93.6423753,39.058 93.5134598,38.9905714 L87.8930804,35.8551429 C87.4879175,35.6191429 87.3422598,35.1134286 87.5666062,34.7088571 C87.7909526,34.3042857 88.303266,34.1525714 88.7034062,34.3717143 L94.3254598,37.5071429 C94.7306227,37.7431429 94.8762804,38.2488571 94.651934,38.6534286 C94.4979052,38.94 94.2132866,39.0917143 93.9202969,39.0917143" id="Fill-163" fill="#F4BD51"></path>
+                    <path d="M81.1794309,10.9571429 C81.0421443,10.9571429 80.9031835,10.9234286 80.774268,10.856 C80.3707794,10.62 80.2234474,10.1142857 80.4477938,9.70971429 L83.5601814,4.04571429 C83.7862021,3.64114286 84.2934928,3.48942857 84.6986557,3.70857143 C85.1021443,3.94457143 85.2494763,4.45028571 85.0251299,4.85485714 L81.9127423,10.5188571 C81.7587134,10.8054286 81.4740948,10.9571429 81.1794309,10.9571429" id="Fill-164" fill="#F4BD51"></path>
+                    <path d="M72.3210969,36.934 C66.4361897,36.934 61.6679918,32.1297143 61.6679918,26.196 C61.6679918,20.2791429 66.4361897,15.4748571 72.3210969,15.4748571 C78.2076784,15.4748571 82.9775505,20.2791429 82.9775505,26.196 C82.9775505,32.1297143 78.2076784,36.934 72.3210969,36.934 Z" id="Fill-165" fill="#E1892E"></path>
+                </g>
+            </g>
+        </g>
+        <text id="Poop-bag-design-sour" font-family="OpenSans, Open Sans" font-size="32" font-weight="normal" fill="#000000" fill-opacity="0.87">
+            <tspan x="541" y="2973">P</tspan>
+            <tspan x="560.265625" y="2973" font-family="PingFangSC-Regular, PingFang SC">oop bag design source</tspan>
+        </text>
+        <path d="M544.5,2933.5 L640.5,2933.5" id="Line-14" stroke-opacity="0.87" stroke="#000000" stroke-width="3" stroke-linecap="round" fill-rule="nonzero"></path>
+        <g id="Rectangle-21" fill-rule="nonzero">
+            <use fill="black" fill-opacity="1" filter="url(#filter-15)" xlink:href="#path-14"></use>
+            <use fill="#FFFAE9" xlink:href="#path-14"></use>
+        </g>
+        <g id="Group-27" transform="translate(180.000000, 3241.000000)">
+            <text id="Large-volume-Cleanin" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.87">
+                <tspan x="0" y="41">Large volume</tspan>
+                <tspan x="0" y="60">Cleaning trouble</tspan>
+                <tspan x="0" y="79">Not environmentally friendly</tspan>
+                <tspan x="0" y="98">Dog poop can not effectively use</tspan>
+            </text>
+            <text id="SHORTAGE" font-family="OpenSans-Bold, Open Sans" font-size="16" font-weight="bold" fill="#EF7545">
+                <tspan x="0" y="17">SHORTAGE</tspan>
+            </text>
+        </g>
+        <g id="Group-28" transform="translate(444.000000, 3241.000000)">
+            <text id="Easy-to-carry-Not-di" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.87">
+                <tspan x="0" y="45">Easy to carry</tspan>
+                <tspan x="0" y="64">Not dirty hands</tspan>
+                <tspan x="0" y="83">Environmental Protection</tspan>
+                <tspan x="0" y="102">More interesting solutions</tspan>
+            </text>
+            <text id="SOLUTION" font-family="OpenSans-Bold, Open Sans" font-size="16" font-weight="bold" fill="#EF7545">
+                <tspan x="0" y="17">SOLUTION</tspan>
+            </text>
+        </g>
+        <text id="Research" font-family="OpenSans, Open Sans" font-size="32" font-weight="normal" fill="#F06630">
+            <tspan x="181" y="3082">Research</tspan>
+        </text>
+        <path d="M788.5,3101.5 L788.5,3372.5" id="Line-4" stroke="#FD7B50" stroke-width="3" stroke-linecap="round" fill-rule="nonzero"></path>
+        <g id="Rectangle-2" fill-rule="nonzero">
+            <use fill="black" fill-opacity="1" filter="url(#filter-17)" xlink:href="#path-16"></use>
+            <use fill="#FEA588" xlink:href="#path-16"></use>
+        </g>
+        <g id="Rectangle-2" fill-rule="nonzero">
+            <use fill="black" fill-opacity="1" filter="url(#filter-19)" xlink:href="#path-18"></use>
+            <use fill="#FEA588" xlink:href="#path-18"></use>
+        </g>
+        <text id="fold-Seed-Paper-into" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.87">
+            <tspan x="1061" y="3521">   fold Seed Paper into Boxes</tspan>
+        </text>
+        <text id="Boxes-hold-Poop" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.87">
+            <tspan x="906" y="3521"> Boxes hold Poop</tspan>
+        </text>
+        <text id="Poop-turn-into-Ferti" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.87">
+            <tspan x="179" y="3521">Poop turn into Fertilizer</tspan>
+        </text>
+        <text id="Fertilizer-is-good-f" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.87">
+            <tspan x="364" y="3521">Fertilizer is good for Plants</tspan>
+        </text>
+        <text id="Seed-Paper-sprout-Pl" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.87">
+            <tspan x="564" y="3521">Seed Paper sprout Plants</tspan>
+        </text>
+        <text id="Association" font-family="OpenSans, Open Sans" font-size="32" font-weight="normal" fill="#F06630">
+            <tspan x="180" y="3492">Association</tspan>
+        </text>
+        <text id="Pet-Poop" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.87">
+            <tspan x="842" y="3358">Pet Poop</tspan>
+        </text>
+        <text id="Collection-Tool" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.87">
+            <tspan x="979" y="3356">Collection Tool</tspan>
+        </text>
+        <text id="Pet-Poop" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.87">
+            <tspan x="842" y="3208">Pet Poop</tspan>
+        </text>
+        <text id="Seed-Paper" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.87">
+            <tspan x="990" y="3207">Seed Paper</tspan>
+        </text>
+        <text id="Plant" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.87">
+            <tspan x="1205" y="3208">Plant</tspan>
+        </text>
+        <text id="Energy" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#000000" fill-opacity="0.87">
+            <tspan x="1200" y="3358">Energy</tspan>
+        </text>
+        <g id="Group-48" transform="translate(936.000000, 3139.000000)" fill-rule="nonzero" stroke="#F06630" stroke-linecap="round" stroke-linejoin="round" stroke-width="3">
+            <path d="M0.5,12.5 L24.5,12.5" id="Line-16"></path>
+            <path d="M12.5,0.5 L12.5,24.5" id="Line-16"></path>
+        </g>
+        <g id="Group-48" transform="translate(936.000000, 3289.000000)" fill-rule="nonzero" stroke="#F06630" stroke-linecap="round" stroke-linejoin="round" stroke-width="3">
+            <path d="M0.5,12.5 L24.5,12.5" id="Line-16"></path>
+            <path d="M12.5,0.5 L12.5,24.5" id="Line-16"></path>
+        </g>
+        <g id="Group-49" transform="translate(1086.000000, 3145.000000)" fill-rule="nonzero" stroke="#EF7545" stroke-linecap="round" stroke-width="3">
+            <path d="M0.5,6.5 L77.5,6.5" id="Line-17"></path>
+            <path d="M78.5,6.5 L68.5,12.5" id="Line-5"></path>
+            <path d="M78.5,0.5 L68.5,6.5" id="Line-5" transform="translate(73.500000, 3.500000) scale(1, -1) translate(-73.500000, -3.500000) "></path>
+        </g>
+        <g id="Group-49" transform="translate(1086.000000, 3295.000000)" fill-rule="nonzero" stroke="#EF7545" stroke-linecap="round" stroke-width="3">
+            <path d="M0.5,6.5 L77.5,6.5" id="Line-17"></path>
+            <path d="M78.5,6.5 L68.5,12.5" id="Line-5"></path>
+            <path d="M78.5,0.5 L68.5,6.5" id="Line-5" transform="translate(73.500000, 3.500000) scale(1, -1) translate(-73.500000, -3.500000) "></path>
+        </g>
+        <text id="fermentation" font-family="OpenSans, Open Sans" font-size="12" font-weight="normal" fill="#000000" fill-opacity="0.87">
+            <tspan x="1086" y="3291">fermentation</tspan>
+        </text>
+        <text id="soil/water" font-family="OpenSans, Open Sans" font-size="12" font-weight="normal" fill="#000000" fill-opacity="0.87">
+            <tspan x="1095" y="3141">soil/water</tspan>
+        </text>
+        <text id="Poop-bag-development" font-family="OpenSans, Open Sans" font-size="32" font-weight="normal" fill="#000000" fill-opacity="0.87">
+            <tspan x="550" y="3949">P</tspan>
+            <tspan x="569.265625" y="3949" font-family="PingFangSC-Regular, PingFang SC">oop bag development</tspan>
+        </text>
+        <path d="M553.5,3909.5 L649.5,3909.5" id="Line-14" stroke-opacity="0.87" stroke="#000000" stroke-width="3" stroke-linecap="round" fill-rule="nonzero"></path>
+        <path d="M1007,4254 C1007,4257.31371 1004.31371,4260 1001,4260 L274,4260 L274,4411 L235,4411 L235,4252 L235.082958,4252 C235.559037,4249.16229 238.027004,4247 241,4247 L968,4247 L968,4204 L1007,4204 L1007,4254 Z" id="Combined-Shape" fill="url(#linearGradient-20)" fill-rule="nonzero"></path>
+        <g id="Rectangle-2" fill-rule="nonzero">
+            <use fill="black" fill-opacity="1" filter="url(#filter-22)" xlink:href="#path-21"></use>
+            <use fill="#FEA588" xlink:href="#path-21"></use>
+        </g>
+        <g id="Rectangle-2" fill-rule="nonzero">
+            <use fill="black" fill-opacity="1" filter="url(#filter-24)" xlink:href="#path-23"></use>
+            <use fill="#ABE1B3" xlink:href="#path-23"></use>
+        </g>
+        <text id="Easy-open-and-no-nee" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.87">
+            <tspan x="1233" y="4411">Easy open and </tspan>
+            <tspan x="1233" y="4433">no need to open</tspan>
+        </text>
+        <text id="Research" font-family="OpenSans-Bold, Open Sans" font-size="32" font-weight="bold" fill="#FFFFFF">
+            <tspan x="178" y="4207">Research</tspan>
+        </text>
+        <text id="Improvement" font-family="OpenSans, Open Sans" font-size="32" font-weight="normal" fill="#FFFFFF">
+            <tspan x="185" y="4553">Improvement</tspan>
+        </text>
+        <text id="Selected" font-family="OpenSans-Bold, Open Sans" font-size="32" font-weight="bold" fill="#FFFFFF">
+            <tspan x="668" y="4207">Selected</tspan>
+        </text>
+        <text id="Plan-A" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.87">
+            <tspan x="242" y="4135">Plan A</tspan>
+        </text>
+        <text id="Plan-B" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.87">
+            <tspan x="440" y="4135">Plan B</tspan>
+        </text>
+        <text id="Plan-C" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.87">
+            <tspan x="610" y="4135">Plan C</tspan>
+        </text>
+        <text id="Foldable-and-easy-fo" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.87">
+            <tspan x="935" y="4131">Foldable and easy</tspan>
+            <tspan x="935" y="4153">folding there's a tip</tspan>
+        </text>
+        <circle id="Oval-20" fill="#FFFFFF" fill-rule="nonzero" opacity="0.3" cx="617.5" cy="4500.5" r="13.5"></circle>
+        <text id="2" font-family="OpenSans, Open Sans" font-size="17" font-weight="normal" fill="#404040">
+            <tspan x="613" y="4507">2</tspan>
+        </text>
+        <circle id="Oval-20" fill="#FFFFFF" fill-rule="nonzero" opacity="0.3" cx="807.5" cy="4500.5" r="13.5"></circle>
+        <text id="3" font-family="OpenSans, Open Sans" font-size="17" font-weight="normal" fill="#404040">
+            <tspan x="803" y="4507">3</tspan>
+        </text>
+        <circle id="Oval-20" fill="#FFFFFF" fill-rule="nonzero" opacity="0.3" cx="997.5" cy="4500.5" r="13.5"></circle>
+        <text id="4" font-family="OpenSans, Open Sans" font-size="17" font-weight="normal" fill="#404040">
+            <tspan x="993" y="4507">4</tspan>
+        </text>
+        <circle id="Oval-20" fill="#FFFFFF" fill-rule="nonzero" opacity="0.3" cx="1263.5" cy="4500.5" r="13.5"></circle>
+        <text id="5" font-family="OpenSans, Open Sans" font-size="17" font-weight="normal" fill="#404040">
+            <tspan x="1259" y="4507">5</tspan>
+        </text>
+        <circle id="Oval-20" fill="#FFFFFF" fill-rule="nonzero" opacity="0.3" cx="424.5" cy="4500.5" r="13.5"></circle>
+        <text id="1" font-family="OpenSans, Open Sans" font-size="17" font-weight="normal" fill="#404040">
+            <tspan x="420" y="4507">1</tspan>
+        </text>
+        <g id="Group-57" transform="translate(647.000000, 4823.000000)">
+            <text id="Prototype" font-family="OpenSans, Open Sans" font-size="32" font-weight="normal" fill="#000000" fill-opacity="0.87">
+                <tspan x="0" y="41.0933333">Prototype</tspan>
+            </text>
+            <path d="M3.5,1.59333333 L99.5,1.59333333" id="Line-14" stroke-opacity="0.87" stroke="#000000" stroke-width="3" stroke-linecap="round" fill-rule="nonzero"></path>
+        </g>
+        <g id="Rectangle-10" fill-rule="nonzero">
+            <use fill="black" fill-opacity="1" filter="url(#filter-26)" xlink:href="#path-25"></use>
+            <use fill="#F1F9FC" xlink:href="#path-25"></use>
+        </g>
+        <text id="--Easy-to-embed-into" font-family="OpenSans, Open Sans" font-size="17" font-weight="normal" fill="#404040">
+            <tspan x="764" y="5244">- Easy to embed into soil with a sharp edge.</tspan>
+            <tspan x="764" y="5267">- Easy to pick up feces with a part can be used as shovel.</tspan>
+            <tspan x="764" y="5290">- Foldable, take the advantage of seed paper.</tspan>
+            <tspan x="764" y="5313">- Easy to carry with a part can be used as handle.</tspan>
+            <tspan x="764" y="5336">-  Material savings, make full use of every part of paper</tspan>
+            <tspan x="764" y="5359"></tspan>
+            <tspan x="764" y="5382">After several rounds of testing of prototype and </tspan>
+            <tspan x="764" y="5405">iteration, we decided the final one in the picture on the </tspan>
+            <tspan x="764" y="5428">right at last.</tspan>
+        </text>
+        <g id="Group-59" transform="translate(204.000000, 4914.000000)"></g>
+        <g id="Group-76" transform="translate(544.000000, 6689.000000)">
+            <text id="Poop-bag-using-conte" font-family="OpenSans, Open Sans" font-size="32" font-weight="normal" fill="#000000" fill-opacity="0.87">
+                <tspan x="0" y="41">Poop bag using content</tspan>
+            </text>
+            <path d="M3.5,1.5 L99.5,1.5" id="Line-14" stroke-opacity="0.87" stroke="#000000" stroke-width="3" stroke-linecap="round" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>
