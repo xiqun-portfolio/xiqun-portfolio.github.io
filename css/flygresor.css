@@ -1,0 +1,206 @@
+
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans|Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Avenir');
+
+html,body{
+  margin: 0 auto;
+  padding: 0;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  width: 100%;
+
+  background-clip: border-box;
+  text-align: center;
+}
+
+#page2 {
+  position: relative;
+  max-width: 1440px;
+  margin: auto;
+  max-width: 100%;
+  overflow: hidden;
+}
+
+header {
+  height: 100vh;
+  background-image: url(../img/flygresor-first-screen.png);
+  background-size: cover;
+  position: relative;
+}
+
+
+/*  Uface start  */
+.port {
+  width: 100%;
+  height: 100%;
+}
+
+video {
+  width: 372px;
+}
+
+.videoClasss {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0.35%;
+  left: 0.02%;
+}
+
+.flygresor1 {
+  width: 16%;
+  position: absolute;
+  left: 14%;
+  top: 11.5%;
+}
+
+.flygresor2 {
+  width: 75%;
+  position: absolute;
+  left: 12%;
+  top: 17.2%;
+}
+
+.flygresor3 {
+  width: 27.5%;
+  position: absolute;
+  left: 60.35%;
+  top: 28.1%;
+}
+
+.flygresor4 {
+  width: 75%;
+  position: absolute;
+  left: 13.2%;
+  top: 32.6%;
+}
+
+.flygresor5 {
+  width: 75%;
+  position: absolute;
+  left: 12%;
+  top: 39%;
+}
+
+.flygresor6 {
+  width: 32%;
+  position: absolute;
+  left: 0.2%;
+  top: 60.5%;
+}
+
+.flygresor7 {
+  width: 85%;
+  position: absolute;
+  left: 13.2%;
+  top: 65.5%;
+}
+
+.flygresor8 {
+  width: 76%;
+  position: absolute;
+  left: 12%;
+  top: 72.9%;
+}
+
+.flygresor9 {
+  width: 52%;
+  position: absolute;
+  left: 25%;
+  top: 85.65%;
+}
+
+.flygresor10 {
+  width: 56.45%;
+  position: absolute;
+  left: 22%;
+  top: 94.52%;
+}
+
+iframe {
+  position: absolute;
+  top: 8.3%;
+  left: 61%;
+}
+
+.wireframe {
+  position: absolute;
+  top: 71.91%;
+  left: 35.1%;
+  color: #F06630;
+  font-size: 18px;
+  font-style: italic;
+  z-index: 100;
+}
+
+.wireframe:hover {
+  transform: scale(1.1);
+}
+
+.left-btn,.right-btn {
+  position: absolute;
+}
+
+.left-btn img {
+  float: left;
+}
+
+.left-btn {
+  top: 99.34%;
+  left: 12.6%;
+}
+
+.right-btn {
+  right: 12.6%;
+  top: 99.25%;
+  float: right;
+  width: 320px;
+
+}
+
+.right-btn img {
+  float: right;
+  margin-top: -21%;
+  padding-top: 6%;
+}
+
+.left-btn p {
+  float: right;
+  padding-left: 14%;
+  margin: 0;
+  margin-top: -17%;
+  padding-bottom: 6px;
+  font-size: 18px;
+}
+
+.right-btn p {
+  margin: 0;
+  padding-bottom: 6px;
+  font-size: 18px;
+  text-align: right;
+  padding-right: 14%;
+}
+
+.title {
+  font-weight: 800;
+}
+
+.role {
+  font-size: 16px;
+  opacity: 0.57;
+}
+
+.left-btn:hover,.right-btn:hover {
+  -webkit-transform:scale(1.08);
+  -moz-transform:scale(1.08);
+  -o-transform:scale(1.08);
+  margin-top: -8px;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}
+}
+/*  Uface end  */
+

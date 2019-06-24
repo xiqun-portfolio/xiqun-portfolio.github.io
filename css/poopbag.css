@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans|Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Avenir');
+
+html,body{
+  margin: 0 auto;
+  padding: 0;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  width: 100%;
+  background-clip: border-box;
+  text-align: center;
+}
+
+#page2 {
+  position: relative;
+  max-width: 1440px;
+  margin: auto;
+  max-width: 100%;
+  overflow: hidden;
+}
+
+.port {
+  width: 100%;
+  height: 100%;
+}
+
+header {
+  height: 100vh;
+  background-image: url(../img/poopbag-first-screen.png);
+  background-size: cover;
+  position: relative;
+}
+
+
+/*  Uface start  */
+.poopbag1 {
+  width: 61.2%;
+  position: absolute;
+  left: 19.4%;
+  top: 17.08%;
+}
+
+.poopbag2 {
+  width: 56.2%;
+  position: absolute;
+  left: 21.7%;
+  top: 27.98%;
+}
+
+.poopbag3 {
+  width: 75%;
+  position: absolute;
+  left: 12.6%;
+  top: 45.06%;
+}
+
+.poopbag4 {
+  width: 73.4%;
+  position: absolute;
+  left: 12.4%;
+  top: 55.38%;
+}
+
+.poopbag5 {
+  width: 64.5%;
+  position: absolute;
+  left: 14%;
+  top: 65.9%;
+}
+
+.poopbag6 {
+  width: 70.1%;
+  position: absolute;
+  left: 16.4%;
+  top: 76.2%;
+}
+
+.poopbag7 {
+  width: 78.8%;
+  position: absolute;
+  left: 11.8%;
+  top: 87.6%;
+}
+
+.left-btn,.right-btn {
+  position: absolute;
+}
+
+.left-btn img {
+  float: left;
+  margin-top: 3%;
+}
+
+.left-btn {
+  top: 98.7%;
+  left: 12.6%;
+}
+
+.right-btn {
+  right: 12.6%;
+  top: 98.87%;
+}
+
+.right-btn img {
+  float: right;
+  margin-top: -21%;
+  padding-left: 8%;
+}
+
+p {
+  float: left;
+  padding-left: 4%;
+  margin: 0;
+  padding-bottom: 6px;
+  font-size: 18px;
+}
+
+.rightbtn p{
+  padding-top: 16%;
+  padding-right: 12%;
+}
+
+.title {
+  font-weight: 800;
+}
+
+.role {
+  font-size: 16px;
+  opacity: 0.57;
+}
+
+.left-btn:hover,.right-btn:hover {
+  -webkit-transform:scale(1.08);
+  -moz-transform:scale(1.08);
+  -o-transform:scale(1.08); 
+  margin-top: -8px;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}
+/*  Uface end  */
+

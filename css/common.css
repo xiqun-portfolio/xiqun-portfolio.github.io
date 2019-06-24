@@ -1,0 +1,59 @@
+
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans|Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Avenir');
+
+.containerlogo {
+  position: absolute;
+}
+
+.stickyTop {
+  padding: 1% 13%;
+  position:fixed;
+  z-index: 9999;
+  width: 74%;
+  background-color: rgb(251, 204, 44, 0.05);
+}
+
+nav {
+  float: right;
+  font-size: 0.875rem;
+}
+
+nav ul, li {
+  padding-left: 2rem;
+  padding-top: 0;
+  list-style-type: none;
+  float: left;
+}
+
+header nav ul li a {
+  text-decoration: none;
+  color: #FBCC2C;
+}
+
+.lihover:hover {
+  background-image: linear-gradient(-90deg, #FC5259 9%, #9013FE 29%, #FD0688 48%, #F9C052);
+  -webkit-background-clip: text;
+  color: transparent;
+}
+
+.logo {
+  float: left;
+  height: 2.875rem;
+  line-height: 2.875rem;
+}
+
+.slogan {
+  float: right;
+  margin-left: 1.3rem;
+  color: #FBCC2C;
+  opacity: 0.8;
+  text-decoration: none;
+}
+
+.slogan a:hover {
+  background-image: linear-gradient(-90deg, #FC5259 9%, #9013FE 29%, #FD0688 48%, #F9C052);
+  -webkit-background-clip: text;
+  color: transparent;
+}
+
